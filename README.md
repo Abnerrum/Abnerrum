@@ -1,5 +1,4 @@
-Abner Luiz Pascoal
-Desenvolvedor Júnior/Estagiário em Desenvolvimento
+Abner Luiz Pascoal de Oliveira
 
 Sobre mim
 Sou um profissional em formação, com conhecimentos em desenvolvimento web e programação. Busco uma oportunidade para atuar como Desenvolvedor Júnior ou Estagiário em Desenvolvimento, onde possa aplicar meus conhecimentos e adquirir experiência prática no desenvolvimento de sites, aplicações e correção de bugs. Estou em constante aprimoramento através de cursos e formação acadêmica, e tenho grande interesse em contribuir para projetos desafiadores.
