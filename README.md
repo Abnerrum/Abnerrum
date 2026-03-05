@@ -38,6 +38,7 @@ Faculdade Princípios Militares | Concluído
 ## 💻 Habilidades Técnicas
 
 ### 🧠 Linguagens
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,12 +46,18 @@ Faculdade Princípios Militares | Concluído
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 📊 Dados e IA
+---
+
+## 📊 Dados e IA
+
 - Análise de Dados  
 - Fundamentos de Machine Learning  
 - Estruturação e tratamento de dados  
 
-### 🌐 Desenvolvimento
+---
+
+## 🌐 Desenvolvimento
+
 - Frontend  
 - Backend  
 - Correção de bugs  
@@ -60,17 +67,18 @@ Faculdade Princípios Militares | Concluído
 
 ## 💡 Projetos
 
-- 🔗 [Abnerrum](https://github.com/Abnerrum) – Arquivos e configurações do perfil GitHub.
-- 🔗 [JovifyApp](https://github.com/Abnerrum/JovifyApp) – Aplicação em desenvolvimento.
-- 🔗 [JovifyApp-1](https://github.com/Abnerrum/JovifyApp-1) – Evolução do projeto.
-- 🔗 [ImperioMultSerci-er](https://github.com/Abnerrum/ImperioMultSerci-er) – Projeto web aplicado.
+- 🔗 [Perfil GitHub](https://github.com/Abnerrum)
+- 🔗 [JovifyApp](https://github.com/Abnerrum/JovifyApp)
+- 🔗 [JovifyApp-1](https://github.com/Abnerrum/JovifyApp-1)
+- 🔗 [ImperioMultSerci-er](https://github.com/Abnerrum/ImperioMultSerci-er)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight)
 
 ---
 
@@ -78,13 +86,13 @@ Faculdade Princípios Militares | Concluído
 
 📧 Email: abnerluizpascoal@gmail.com  
 📱 WhatsApp: (62) 9 9265-6358  
-🔗 LinkedIn: https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/
+💼 LinkedIn: https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar com desenvolvimento ou análise de dados, aplicando boas práticas, organização de código e mentalidade analítica para construir soluções eficientes e bem estruturadas.
+Atuar com desenvolvimento ou análise de dados, aplicando boas práticas, organização de código e mentalidade analítica para construir soluções eficientes.
 
 ---
 
