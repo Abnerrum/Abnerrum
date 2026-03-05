@@ -17,27 +17,26 @@ Busco oportunidade como Desenvolvedor Júnior, Estagiário em Desenvolvimento ou
 
 ## 🎓 Formação Acadêmica
 
-**Gestão da Tecnologia da Informação (Ênfase em IA)**  
-Faculdade Princípios Militares | Concluído  
+**Gestão da Tecnologia da Informação (Ênfase em IA)** Faculdade Princípios Militares | Concluído  
 
 ---
 
 ## 📚 Cursos e Certificações
 
 ### 🎓 Em Andamento
-- Inteligência Artificial – SENAI  
+- **Inteligência Artificial** – SENAI  
 
 ### ✅ Concluídos
-- Inteligência de Ameaças Cibernéticas – 24h  
-- Introdução à Programação Web – 24h  
-- Introdução a Redes de Computadores – 15h  
-- Lógica de Programação – 70h  
+- **Inteligência de Ameaças Cibernéticas** – 24h  
+- **Introdução à Programação Web** – 24h  
+- **Introdução a Redes de Computadores** – 15h  
+- **Lógica de Programação** – 70h  
 
 ---
 
 ## 💻 Habilidades Técnicas
 
-### 🧠 Linguagens
+### 🧠 Linguagens e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,14 +57,13 @@ Faculdade Princípios Militares | Concluído
 
 ## 🌐 Desenvolvimento
 
-- Frontend  
-- Backend  
+- Frontend / Backend  
 - Correção de bugs  
 - Estruturação de projetos  
 
 ---
 
-## 💡 Projetos
+## 💡 Projetos Principais
 
 - 🔗 [Perfil GitHub](https://github.com/Abnerrum)
 - 🔗 [JovifyApp](https://github.com/Abnerrum/JovifyApp)
@@ -76,17 +74,18 @@ Faculdade Princípios Militares | Concluído
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&cache_seconds=1800)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
+</div>
 
 ---
 
 ## 📞 Contato
 
-📧 Email: abnerluizpascoal@gmail.com  
-📱 WhatsApp: (62) 9 9265-6358  
-💼 LinkedIn: https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/
+- 📧 **Email:** [abnerluizpascoal@gmail.com](mailto:abnerluizpascoal@gmail.com)
+- 📱 **WhatsApp:** [(62) 99265-6358](https://wa.me/5562992656358)
+- 💼 **LinkedIn:** [Abner Luiz Pascoal](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 
 ---
 
@@ -96,4 +95,4 @@ Atuar com desenvolvimento ou análise de dados, aplicando boas práticas, organi
 
 ---
 
-_"A tecnologia move o mundo. Eu me preparo para construir o próximo passo."_
+*"A tecnologia move o mundo. Eu me preparo para construir o próximo passo."*
