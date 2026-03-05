@@ -75,10 +75,10 @@ Busco oportunidade como Desenvolvedor Júnior, Estagiário em Desenvolvimento ou
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true alt="Streak Stats" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight alt="Streak Stats" />
 </p>
 
 <p align="center">
