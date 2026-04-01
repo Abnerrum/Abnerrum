@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3CAbner+/%3E;Analista+de+Dados;Especialista+em+IA;Automa%C3%A7%C3%A3o+Inteligente" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3CAbner+Luiz+/%3E;Analista+de+Dados;Especialista+em+IA;Automa%C3%A7%C3%A3o+Inteligente" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <i>"Transformo dados em insights acionáveis e crio automações inteligentes que impulsionam negócios. Apaixonado por tecnologia, inovação e exploração espacial."</i>
+  <i>"Sou um Analista de Dados e Especialista em Automação com formação em Gestão da Tecnologia da Informação. Minha jornada é impulsionada pela curiosidade e pelo desejo de construir soluções inovadoras, com foco especial em Inteligência Artificial e Engenharia de Dados."</i>
 </p>
 
 <p align="center">
@@ -30,26 +30,25 @@
 
 ---
 
-### 🛰️ Sobre Mim
+### 🛰️ Minha Missão & Formação
 
-Sou um entusiasta da tecnologia focado em gerar valor através dos dados. Minha missão é unir o poder da **Inteligência Artificial** com a eficiência da **Automação** para resolver problemas complexos.
-
-- 🌌 **Exploração Atual:** Especialização em modelos de IA e arquitetura de dados.
-- 🛠️ **Foco Estratégico:** Desenvolvimento de dashboards de alto impacto e fluxos de automação (n8n/Python).
-- 🎓 **Background:** Gestão da Tecnologia da Informação.
+- 🎓 **Formação:** Graduado em **Gestão da Tecnologia da Informação**.
+- 🚀 **Evolução Contínua:** Atualmente cursando **Graduação em Inteligência Artificial no SENAI**, aprofundando conhecimentos em modelos preditivos e algoritmos avançados.
+- ⚙️ **Expertise:** Focado em unir a Engenharia de Dados com a Automação Inteligente (**n8n / Python**) para escalar resultados de negócios.
+- 🌌 **Visão:** Acredito que a tecnologia e a IA são as fronteiras finais para a eficiência humana.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  
+
 | **Área** | **Tecnologias** |
 | :--- | :--- |
-| **Análise & BI** | `Power BI` `Looker Studio` `SQL` |
-| **IA & Automação** | `Python` `n8n` `Pandas` `Selenium` |
+| **IA & Automação** | `Python` `n8n` `Scikit-learn` `Pandas` `Selenium` |
+| **Análise & BI** | `Power BI` `Looker Studio` `SQL` `ETL` |
 | **Desenvolvimento** | `JavaScript` `PHP` `Java` `HTML/CSS` |
-| **Ferramentas** | `Git` `GitHub` `MySQL` |
+| **Infra & DevOps** | `Git` `GitHub` `MySQL` `Linux` |
 
 </div>
 
@@ -61,23 +60,23 @@ Sou um entusiasta da tecnologia focado em gerar valor através dos dados. Minha 
 
 ---
 
-### 📊 Performance & Impacto
+### 📊 Estatísticas de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A020F0&icon_color=00F7FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&border_color=A020F0&title_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A020F0&icon_color=00F7FF&title_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&border_color=A020F0&title_color=00F7FF&text_color=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight&border=A020F0&stroke=00F7FF&fire=00F7FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight&border=A020F0&stroke=00F7FF&fire=00F7FF&ring=A020F0" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 👨‍🚀 Missão Espacial
+### 👨‍🚀 Exploração em Andamento
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0Znc2M2d5ZzRreXgyZnZ3ZzRreXgyZnZ3ZzRreXgyZnZ3ZzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WvSshVvAL6C9Zf9l29/giphy.gif" width="280" />
+  <img src="https://cdn.pixabay.com/animation/2023/02/09/13/21/13-21-34-31_512.gif" width="300" />
   <br>
   <i>"A tecnologia move o mundo — eu estou construindo meu espaço nele."</i>
 </p>
