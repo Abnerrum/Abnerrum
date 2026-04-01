@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Focado+em+IA+e+Automação;Explorando+o+Universo+dos+Dados;Sempre+Evoluindo+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Focado+em+IA+e+Automação;Explorando+o+Universo+dos+Dados;Sempre+Evoluindo+🚀" />
 </p>
 
 ---
@@ -48,11 +48,11 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 🌌 Exploração Espacial
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Lp9btEDnYIdsrCidv5/giphy.gif" width="500" alt="Astronauta no Universo">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
 ---
@@ -68,9 +68,15 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 📞 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abnerluizpascoal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/5562992656358" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abnerluizpascoal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5562992656358" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
