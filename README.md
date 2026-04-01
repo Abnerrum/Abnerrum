@@ -47,8 +47,20 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight" />
+</p>
+
+---
+
+## 🌌 Exploração Espacial
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Z3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6bm9pZ3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Lp9btEDnYIdsrCidv5/giphy.gif" width="500" alt="Astronauta no Universo">
 </p>
 
 ---
@@ -59,14 +71,6 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
   <a href="https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abnerluizpascoal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/5562992656358" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
----
-
-## 🌌 Exploração Espacial e Tecnológica
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3og0IPb5vA0P0EsqxO/giphy.gif" width="450" alt="Astronauta no Espaço">
 </p>
 
 ---
