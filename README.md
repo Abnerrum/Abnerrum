@@ -18,8 +18,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abnerrum)
 
-<img src="https://komarev.com/ghpvc/?username=Abnerrum&color=00F7FF&style=flat-square&label=visitas+ao+perfil" alt="Contador de visitas"/>
-
 </div>
 
 ---
