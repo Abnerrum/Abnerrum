@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:A020F0&height=200&section=header&text=Abner%20Luiz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abner%20Luiz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Specialist&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Analista+de+Dados+%7C+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+com+Intelig%C3%AAncia;Construindo+o+futuro+com+Python+%26+n8n;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80" alt="Typing SVG" />
@@ -86,8 +86,8 @@ class AbnerLuiz:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&icon_color=A020F0&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&langs_count=7&theme=tokyonight&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=ffffff"/>
 
 </div>
 
@@ -109,8 +109,10 @@ class AbnerLuiz:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abnerrum/Abnerrum/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abnerrum/Abnerrum/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Abnerrum/Abnerrum/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Abnerrum/Abnerrum/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+
+  > ⚠️ **Para ativar a cobrinha:** configure o workflow `snake.yml` no seu repositório (veja instruções abaixo)
 </div>
 
 ---
