@@ -1,97 +1,136 @@
 # 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
 
-### 🎓 Bacharel em Gestão da Tecnologia da Informação (Ênfase em Inteligência Artificial)
-### 💻 Desenvolvedor em Formação
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Focado+em+Dados+e+IA;Apaixonado+por+Tecnologia;Sempre+Evoluindo+🚀" />
+</p>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 
-Sou profissional de tecnologia, formado em Gestão da Tecnologia da Informação com ênfase em Inteligência Artificial. Tenho base sólida em desenvolvimento web, lógica de programação e análise de dados.
+Sou apaixonado por tecnologia e resolução de problemas. Tenho formação em Gestão da Tecnologia da Informação com ênfase em Inteligência Artificial.
 
-Atualmente estou realizando Curso de Inteligência Artificial no SENAI, aprofundando conhecimentos em IA aplicada, Python e análise de dados.
+Tenho base sólida em desenvolvimento web, lógica de programação e análise de dados.
 
-Busco oportunidade como Desenvolvedor Júnior, Estagiário em Desenvolvimento ou área de Dados, onde eu possa contribuir com projetos reais, resolver problemas e evoluir tecnicamente.
+Atualmente, estou me especializando em Inteligência Artificial pelo SENAI, aprofundando conhecimentos em Python, análise de dados e aplicações práticas de IA.
 
----
-
-## 🎓 Formação Acadêmica
-
-**Gestão da Tecnologia da Informação (Ênfase em IA)** Faculdade Princípios Militares | Concluído  
+🎯 Busco oportunidade como Desenvolvedor Júnior, Estagiário ou na área de Dados.
 
 ---
 
-## 📚 Cursos e Certificações
+## 📈 Plano de Estudos em Análise de Dados
 
-### 🎓 Em Andamento
-- **Inteligência Artificial** – SENAI  
+Recentemente, estruturei um roteiro de estudos focado em análise de dados, com o objetivo de desenvolver competências práticas e alinhadas ao mercado.
+
+### 🛠️ Ferramentas principais
+
+* Power BI — criação de dashboards e visualização de dados
+* Looker Studio — construção de relatórios interativos
+* n8n — automação de processos e integração de dados
+
+### 📚 Tecnologias complementares
+
+* Excel — análise, fórmulas e organização de dados
+* Python — manipulação e análise de dados
+* SQL — consultas, modelagem e extração de informações
+
+🎯 Objetivo: consolidar uma base sólida em dados, unindo análise, visualização e automação.
+
+---
+
+## 🧪 Em prática
+
+* Construção de dashboards no Power BI
+* Automação de fluxos com n8n
+* Análise de dados com Python (pandas)
+* Consultas SQL para extração de insights
+
+---
+
+## ⚡ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java" />
+</p>
+
+---
+
+## 🧠 Habilidades
+
+### 📊 Dados & IA
+
+* Análise de dados
+* Fundamentos de Machine Learning
+* Estruturação e tratamento de dados
+
+### 🌐 Desenvolvimento
+
+* Frontend e Backend
+* Correção de bugs
+* Estruturação de projetos
+
+---
+
+## 📚 Formação Acadêmica
+
+🎓 **Gestão da Tecnologia da Informação (Ênfase em IA)**
+Faculdade Princípios Militares — Concluído
+
+---
+
+## 📜 Cursos e Certificações
+
+### 🚧 Em andamento
+
+* Inteligência Artificial — SENAI
 
 ### ✅ Concluídos
-- **Inteligência de Ameaças Cibernéticas** – 24h  
-- **Introdução à Programação Web** – 24h  
-- **Introdução a Redes de Computadores** – 15h  
-- **Lógica de Programação** – 70h  
+
+* Inteligência de Ameaças Cibernéticas — 24h
+* Introdução à Programação Web — 24h
+* Introdução a Redes de Computadores — 15h
+* Lógica de Programação — 70h
 
 ---
 
-## 💻 Habilidades Técnicas
+## 💡 Projetos
 
-### 🧠 Linguagens e Ferramentas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-## 📊 Dados e IA
-
-- Análise de Dados  
-- Fundamentos de Machine Learning  
-- Estruturação e tratamento de dados  
-
----
-
-## 🌐 Desenvolvimento
-
-- Frontend / Backend  
-- Correção de bugs  
-- Estruturação de projetos  
-
----
-
-## 💡 Projetos Principais
-
-- 🔗 [Perfil GitHub](https://github.com/Abnerrum)
-- 🔗 [JovifyApp](https://github.com/Abnerrum/JovifyApp)
-- 🔗 [JovifyApp-1](https://github.com/Abnerrum/JovifyApp-1)
-- 🔗 [ImperioMultSerci-er](https://github.com/Abnerrum/ImperioMultSerci-er)
+🔗 https://github.com/Abnerrum
+🔗 https://github.com/Abnerrum/JovifyApp
+🔗 https://github.com/Abnerrum/JovifyApp-1
+🔗 https://github.com/Abnerrum/ImperioMultSerci-er
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight" alt="Streak Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribuições (Animação)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📞 Contato
 
-- 📧 **Email:** [abnerluizpascoal@gmail.com](mailto:abnerluizpascoal@gmail.com)
-- 📱 **WhatsApp:** [(62) 99265-6358](https://wa.me/5562992656358)
-- 💼 **LinkedIn:** [Abner Luiz Pascoal](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
+📧 Email: [abnerluizpascoal@gmail.com](mailto:abnerluizpascoal@gmail.com)
+📱 WhatsApp: (62) 99265-6358
+💼 LinkedIn: https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🔥 Frase
 
-Atuar com desenvolvimento ou análise de dados, aplicando boas práticas, organização de código e mentalidade analítica para construir soluções eficientes.
-
----
-
-*"A tecnologia move o mundo. Eu me preparo para construir o próximo passo."*
+"A tecnologia move o mundo — eu estou construindo meu espaço nele."
