@@ -26,10 +26,6 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 * **n8n** — Automação de fluxos e integração de APIs.
 * **Python** — Pandas, NumPy e Selenium para automação e extração.
 
-### 📚 Fundamentos
-* **SQL** — Consultas complexas e gerenciamento de bancos de dados.
-* **Excel** — Manipulação avançada e fórmulas de negócio.
-
 ---
 
 ## ⚡ Tecnologias & Habilidades
@@ -70,7 +66,7 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 🌌 Exploração Espacial e Tecnológica
 
 <p align="center">
-  <img src="https://i.postimg.com/43N0G9Fq/space-station.gif" width="400" alt="Estação Espacial Orbitando">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3og0IPb5vA0P0EsqxO/giphy.gif" width="450" alt="Astronauta no Espaço">
 </p>
 
 ---
