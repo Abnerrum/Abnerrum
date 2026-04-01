@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Focado+em+IA+e+Automação;Explorando+o+Universo+dos+Dados;Sempre+Evoluindo+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.com/65x735M3/astronaut-tech.gif" width="350" alt="Astronauta Tecnológico">
-</p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -47,7 +43,7 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 💡 Projetos em Destaque
 
 * 📊 **[TrackYourFit (FitTrack)](https://github.com/Abnerrum)** - Gestão e acompanhamento de dados de saúde.
-* 📋 **[ImperioMultServiços](https://github.com/Abnerrum/ImperioMultSerci-er)** - Sistema de relatórios e estruturação de dados para Samsung.
+* 📋 **[ImperioMultServiços](https://github.com/Abnerrum/ImperioMultSerci-er)** - Sistema de relatórios e estruturação de dados.
 * 🚀 **[JovifyApp](https://github.com/Abnerrum/JovifyApp)** - Aplicação focada em desenvolvimento web.
 
 ---
@@ -57,10 +53,6 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight" />
 </p>
 
 ---
@@ -75,9 +67,10 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 
 ---
 
-## 🐍 Snake Game
+## 🌌 Exploração Espacial e Tecnológica
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://i.postimg.com/43N0G9Fq/space-station.gif" width="400" alt="Estação Espacial Orbitando">
 </p>
 
 ---
