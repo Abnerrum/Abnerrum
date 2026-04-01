@@ -81,14 +81,8 @@ class AbnerLuiz:
 ## `$ git log --stats`
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight&border=00F7FF&stroke=00F7FF&fire=FF6B6B&ring=A020F0&currStreakLabel=00F7FF&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&hide_border=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117" width="49%" alt="Top Languages"/>
 </div>
 
 <div align="center">
