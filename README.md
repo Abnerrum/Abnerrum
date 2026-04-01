@@ -1,17 +1,28 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=200&lines=ABNER+LUIZ;DATA+ANALYST+%7C+AI+%26+AUTOMATION;PYTHON+%7C+N8N+%7C+POWER+BI+%7C+SQL;ENGENHARIA+DE+DADOS+%7C+MACHINE+LEARNING" alt="Banner" />
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Analista+de+Dados+%7C+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+com+Intelig%C3%AAncia;Construindo+o+futuro+com+Python+%26+n8n;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80" alt="Typing SVG" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=180&lines=ABNER+LUIZ;DATA+ANALYST+%7C+AI+%26+AUTOMATION;PYTHON+%7C+N8N+%7C+POWER+BI+%7C+SQL;ENGENHARIA+DE+DADOS+%7C+MACHINE+LEARNING" alt="Banner" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES" />
+<!-- Typing animation subtítulo -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;%F0%9F%A4%96+Automatizando+processos+com+IA;%F0%9F%93%8A+Construindo+pipelines+de+dados+inteligentes;%F0%9F%8C%90+Conectando+tecnologia+e+neg%C3%B3cio" alt="Subtitle" />
+
+<br/>
+
+<!-- Status badge -->
+![Status](https://img.shields.io/badge/🟢_Status-Disponível_para_projetos-00F7FF?style=for-the-badge)
+&nbsp;
+![Localização](https://img.shields.io/badge/📍_Local-Goiânia,_Brasil-A020F0?style=for-the-badge)
+
+<br/>
+
+<!-- Contador de visitantes -->
+<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES+NO+PERFIL" />
 
 <br/><br/>
 
+<!-- Badges de contato -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
@@ -36,11 +47,22 @@ class AbnerLuiz:
     ferramentas_favoritas = ["Python", "n8n", "Power BI", "SQL", "Scikit-learn"]
     missao    = "Unir IA + Dados para escalar resultados reais de negócio."
     status    = "🟢 Disponível para projetos e colaborações"
+
+    def falar_sobre_mim(self):
+        return "Transformo caos de dados em decisões claras."
 ```
 
-> _"Acredito que tecnologia e IA são as fronteiras finais para a eficiência humana."_
+> _💡 "Acredito que tecnologia e IA são as fronteiras finais para a eficiência humana."_
 
 <br clear="right"/>
+
+<div align="center">
+
+| 🗓️ Desde | 🛠️ Tecnologias | 🤖 Projetos com IA | 🌍 Idiomas |
+|:---------:|:--------------:|:------------------:|:----------:|
+| **2022** | **15+** | **10+** | **PT · EN** |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -123,12 +145,12 @@ class AbnerLuiz:
 
 <div align="center">
 
-| 🔧 Projeto | 📋 Descrição | 🛠️ Stack |
-|:-----------|:-------------|:---------|
-| 🤖 **AutoFlow** | Pipeline de automação inteligente com n8n + Python | `n8n` `Python` `API REST` |
-| 📊 **Painel de Dados** | Dashboard analítico com indicadores estratégicos de negócio | `Power BI` `SQL` `ETL` |
-| 🧠 **Modelo Preditivo** | Previsões com aprendizado de máquina e Scikit-learn | `Python` `Pandas` `Scikit-learn` |
-| 🔍 **Coletor de Dados** | Extração e tratamento automatizado de dados da web | `Python` `Selenium` `Pandas` |
+| 🔧 Projeto | 📋 Descrição | 🛠️ Stack | 🚦 Status |
+|:-----------|:-------------|:---------|:---------:|
+| 🤖 **AutoFlow** | Pipeline de automação inteligente com n8n + Python | `n8n` `Python` `API REST` | ![WIP](https://img.shields.io/badge/WIP-F7931E?style=flat-square) |
+| 📊 **Painel de Dados** | Dashboard analítico com indicadores estratégicos de negócio | `Power BI` `SQL` `ETL` | ![WIP](https://img.shields.io/badge/WIP-F7931E?style=flat-square) |
+| 🧠 **Modelo Preditivo** | Previsões com aprendizado de máquina e Scikit-learn | `Python` `Pandas` `Scikit-learn` | ![WIP](https://img.shields.io/badge/WIP-F7931E?style=flat-square) |
+| 🔍 **Coletor de Dados** | Extração e tratamento automatizado de dados da web | `Python` `Selenium` `Pandas` | ![WIP](https://img.shields.io/badge/WIP-F7931E?style=flat-square) |
 
 </div>
 
@@ -146,6 +168,26 @@ class AbnerLuiz:
 [████████████████████████]   ∞%  Curiosidade — sempre ativo
 ```
 
+<div align="center">
+
+![SENAI](https://img.shields.io/badge/Graduação_IA-SENAI-EA4B71?style=for-the-badge&logo=academia&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Ciência_de_Dados-Em_andamento-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning_Avançado-Em_andamento-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribuições
+
+<div align="center">
+
+> ⚙️ Configure o workflow `snake.yml` para ativar a animação de contribuições
+
+![Contributions](https://img.shields.io/badge/Snake_Animation-Configure_o_workflow_snake.yml-00F7FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Vamos nos conectar?
@@ -153,6 +195,8 @@ class AbnerLuiz:
 <div align="center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+
+**Aberto a freelas, colaborações e projetos desafiadores!**
 
 Se você tem um projeto interessante, quer trocar ideias sobre dados e IA,
 ou simplesmente bater papo sobre tecnologia — **me chama!** 👇
@@ -162,7 +206,11 @@ ou simplesmente bater papo sobre tecnologia — **me chama!** 👇
 [![LinkedIn](https://img.shields.io/badge/Me+encontre+no+LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/Fale+pelo+WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 
-<br/><br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=60&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+%2F%3E" alt="Footer" />
 
