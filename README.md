@@ -1,30 +1,30 @@
 # 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Analista+de+Dados;Focado+em+IA+e+Automação;Explorando+o+Universo+dos+Dados;Sempre+Evoluindo+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Analista+de+Dados;Focado+em+IA+e+Automação;Explorando+o+Universo+dos+Dados;Sempre+Evoluindo+🚀" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e resolução de problemas, com formação em **Gestão da Tecnologia da Informação** e ênfase em **Inteligência Artificial**. Tenho experiência como Analista, o que me proporcionou uma visão estratégica sobre processos e extração de valor através de dados.
+Sou apaixonado por tecnologia e resolução de problemas, com formação em **Gestão da Tecnologia da Informação** e foco em **Inteligência Artificial**.
 
-Atualmente, estou me especializando em **Inteligência Artificial pelo SENAI**, aprofundando conhecimentos em Python, análise de dados e aplicações práticas de IA.
+Atualmente estou me especializando em IA, trabalhando com análise de dados, automação e desenvolvimento de soluções inteligentes.
 
 ---
 
 ## 📈 Jornada de Estudos: Análise de Dados & IA
 
-Estou em uma fase de especialização técnica, focando em ferramentas que permitem transformar dados brutos em decisões inteligentes:
-
 ### 🛠️ BI & Visualização
-* **Power BI** — Dashboards estratégicos e modelagem.
-* **Looker Studio** — Relatórios dinâmicos integrados ao ecossistema Google.
+
+* Power BI
+* Looker Studio
 
 ### 🤖 Automação & IA
-* **n8n** — Automação de fluxos e integração de APIs.
-* **Python** — Pandas, NumPy e Selenium para automação e extração.
+
+* n8n
+* Python (Pandas, NumPy, Selenium)
 
 ---
 
@@ -38,21 +38,21 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 
 ## 💡 Projetos em Destaque
 
-* 📊 **[TrackYourFit (FitTrack)](https://github.com/Abnerrum)** - Gestão e acompanhamento de dados de saúde.
-* 📋 **[ImperioMultServiços](https://github.com/Abnerrum/ImperioMultSerci-er)** - Sistema de relatórios e estruturação de dados.
-* 🚀 **[JovifyApp](https://github.com/Abnerrum/JovifyApp)** - Aplicação focada em desenvolvimento web.
+* 📊 **TrackYourFit**
+* 📋 **ImperioMultServiços**
+* 🚀 **JovifyApp**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&cache_seconds=86400&v=1"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Abnerrum&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Estou em uma fase de especialização técnica, focando em ferramentas que permi
 ## 🌌 Exploração Espacial
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
