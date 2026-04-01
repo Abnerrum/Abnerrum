@@ -84,10 +84,7 @@ class AbnerLuiz:
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00F7FF&icon_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&locale=pt-br" width="49%" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&locale=pt-br" width="49%" alt="Linguagens mais usadas"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF&area=true&hide_border=false&border_color=00F7FF" alt="Gráfico de Atividade"/>
