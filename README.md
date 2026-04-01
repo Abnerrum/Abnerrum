@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Construção-blue?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Status-Em%20Construção-blue?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/github/followers/Abnerrum?label=Seguidores&style=for-the-badge&color=00F7FF" />
 </p>
 
@@ -32,15 +32,15 @@ Sou apaixonado por tecnologia e resolução de problemas, com formação em **Ge
       <td align="center"><b>💻 Desenvolvimento</b></td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googlelooker&logoColor=white" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white" />
       </td>
-      <td>
+      <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql,html,css,js,php,java,git" />
       </td>
     </tr>
@@ -73,8 +73,7 @@ Sou apaixonado por tecnologia e resolução de problemas, com formação em **Ge
 ## 🌌 Exploração Espacial
 
 <p align="center">
-  <!-- Astronauta Animado -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0Znc2M2d5ZzRreXgyZnZ3ZzRreXgyZnZ3ZzRreXgyZnZ3ZzRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WvSshVvAL6C9Zf9l29/giphy.gif" width="250" />
+  <img src="https://cdn.pixabay.com/animation/2023/02/09/13/21/13-21-34-31_512.gif" width="350" />
   <br>
   <i>"A tecnologia move o mundo — eu estou construindo meu espaço nele."</i>
 </p>
