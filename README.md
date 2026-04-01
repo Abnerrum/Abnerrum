@@ -54,8 +54,8 @@ Sou um **Analista de Dados** e **Especialista em Automação** com formação em
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abnerrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerrum&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas"/>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Sou um **Analista de Dados** e **Especialista em Automação** com formação em
 ## 🌌 Minha Estação Espacial de Código
 
 <p align="center">
-  <img src="https://media.tenor.com/2s_t9-f538wAAAAj/alex-and-cosmo-cute-adorable.gif" width="350" alt="Astronauta Programando" />
+  <img src="https://i.giphy.com/media/qgkrtswf4MfFG/giphy.gif" width="350" alt="Astronauta Programando" />
   <br>
   <i>"A tecnologia move o mundo — eu estou construindo meu espaço nele, um commit de cada vez."</i>
 </p>
