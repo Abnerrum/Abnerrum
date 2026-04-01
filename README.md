@@ -1,24 +1,7 @@
 <div align="center">
 
-<!-- Banner SVG inline -->
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117"/>
-      <stop offset="50%" style="stop-color:#0a2a3a"/>
-      <stop offset="100%" style="stop-color:#1a0a2e"/>
-    </linearGradient>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00F7FF"/>
-      <stop offset="100%" style="stop-color:#A020F0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <path d="M0,160 C300,120 600,180 900,140 C1050,120 1150,150 1200,160 L1200,200 L0,200 Z" fill="#00F7FF" opacity="0.15"/>
-  <path d="M0,175 C200,155 500,185 800,165 C1000,150 1100,170 1200,175 L1200,200 L0,200 Z" fill="#A020F0" opacity="0.2"/>
-  <text x="600" y="95" font-family="monospace" font-size="52" font-weight="bold" fill="url(#text-grad)" text-anchor="middle">Abner Luiz</text>
-  <text x="600" y="135" font-family="monospace" font-size="18" fill="#ffffff" opacity="0.85" text-anchor="middle">Data Analyst | AI &amp; Automation Specialist</text>
-</svg>
+<!-- Banner -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=200&lines=ABNER+LUIZ;DATA+ANALYST+%7C+AI+%26+AUTOMATION;PYTHON+%7C+N8N+%7C+POWER+BI+%7C+SQL;ENGENHARIA+DE+DADOS+%7C+MACHINE+LEARNING" alt="Banner" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Analista+de+Dados+%7C+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+com+Intelig%C3%AAncia;Construindo+o+futuro+com+Python+%26+n8n;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80" alt="Typing SVG" />
@@ -167,20 +150,8 @@ ou simplesmente bater papo sobre tecnologia — **me chama!** 👇
 
 <br/>
 
-<!-- Footer SVG inline -->
-<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#1a0a2e"/>
-      <stop offset="50%" style="stop-color:#0a2a3a"/>
-      <stop offset="100%" style="stop-color:#0D1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="120" fill="url(#bg2)"/>
-  <path d="M0,0 C300,60 600,20 900,50 C1050,65 1150,30 1200,0 L1200,0 L0,0 Z" fill="#00F7FF" opacity="0.15"/>
-  <path d="M0,0 C200,40 500,10 800,35 C1000,50 1100,20 1200,0 L1200,0 L0,0 Z" fill="#A020F0" opacity="0.2"/>
-</svg>
+<!-- Footer -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=60&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+%2F%3E" alt="Footer" />
 
-**`< construído com dados · movido por curiosidade · alimentado por café />`**
 
 </div>
