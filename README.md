@@ -6,13 +6,6 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Analista+de+Dados+%7C+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+com+Intelig%C3%AAncia;Construindo+o+futuro+com+Python+%26+n8n;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-<!-- Contador de visitantes -->
-<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES" />
-
-<br/><br/>
-
 <!-- Badges de contato -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
