@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Banner -->
+<!-- Banner animado -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=200&lines=ABNER+LUIZ;DATA+ANALYST+%7C+AI+%26+AUTOMATION;PYTHON+%7C+N8N+%7C+POWER+BI+%7C+SQL;ENGENHARIA+DE+DADOS+%7C+MACHINE+LEARNING" alt="Banner" />
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Analista+de+Dados+%7C+IA+%26+Automa%C3%A7%C3%A3o;Engenharia+de+Dados+com+Intelig%C3%AAncia;Construindo+o+futuro+com+Python+%26+n8n;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%9A%80" alt="Typing SVG" />
 
-<!-- Badges de contato -->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
@@ -14,7 +19,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 Quem sou eu?
 
@@ -37,7 +42,7 @@ class AbnerLuiz:
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Minha Missão & Trajetória
 
@@ -51,7 +56,7 @@ class AbnerLuiz:
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -83,7 +88,15 @@ class AbnerLuiz:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abnerrum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Stats
 
@@ -104,11 +117,7 @@ class AbnerLuiz:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF&area=true&hide_border=false&border_color=00F7FF" alt="Gráfico de Atividade"/>
 </div>
 
----
-
-
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📂 Projetos em Destaque
 
@@ -123,7 +132,7 @@ class AbnerLuiz:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Aprendizado Contínuo
 
@@ -137,7 +146,7 @@ class AbnerLuiz:
 [████████████████████████]   ∞%  Curiosidade — sempre ativo
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💬 Vamos nos conectar?
 
@@ -148,13 +157,13 @@ class AbnerLuiz:
 Se você tem um projeto interessante, quer trocar ideias sobre dados e IA,
 ou simplesmente bater papo sobre tecnologia — **me chama!** 👇
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/Me+encontre+no+LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/Fale+pelo+WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 
-<br/>
+<br/><br/>
 
-<!-- Footer -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=60&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+%2F%3E" alt="Footer" />
-
 
 </div>
