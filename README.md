@@ -205,6 +205,7 @@ ou discutir como automação pode transformar o seu negócio? **Me chama!** 👇
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=%3C+construído+com+dados+·+movido+por+curiosidade+·+alimentado+por+café+/%3E" alt="Footer" />
+<!-- CORREÇÃO APLICADA: caracteres especiais agora estão em URL-encode -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+/%3E" alt="Footer" />
 
 </div>
