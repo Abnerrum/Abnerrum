@@ -195,11 +195,13 @@ class AbnerLuiz:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌊 Atividade de Contribuições
+## 🌊 Ondas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=ffffff&area=true&area_color=A020F0&hide_border=false&border_color=00F7FF&radius=8" width="100%" alt="Gráfico de Contribuições"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A020F0,100:00F7FF&height=150&section=header&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:A020F0,100:0D1117&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
