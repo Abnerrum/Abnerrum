@@ -195,13 +195,11 @@ class AbnerLuiz:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Snake de Contribuições
+## 🌊 Atividade de Contribuições
 
 <div align="center">
 
-<!-- Após configurar o workflow snake.yml, substitua o bloco abaixo pela imagem gerada -->
-
-![Snake animation](https://github.com/Abnerrum/Abnerrum/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=ffffff&area=true&area_color=A020F0&hide_border=false&border_color=00F7FF&radius=8" width="100%" alt="Gráfico de Contribuições"/>
 
 </div>
 
