@@ -1,38 +1,39 @@
 <div align="center">
 
-<!-- Banner principal -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=160&lines=ABNER+LUIZ;Data+Analyst+%7C+AI+%26+Automation;Python+%7C+n8n+%7C+Power+BI+%7C+SQL" alt="Banner" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=160&lines=ABNER+LUIZ;Data+Analyst+%7C+AI+%26+Automation;Python+%7C+Power+BI+%7C+SQL+%7C+n8n" alt="Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&color=A020F0&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Transformando+dados+brutos+em+decis%C3%B5es+estrat%C3%A9gicas;%F0%9F%A4%96+Automatizando+processos+com+IA+generativa;%F0%9F%93%8A+Construindo+pipelines+inteligentes+de+dados;%F0%9F%8C%90+Conectando+tecnologia+ao+resultado+de+neg%C3%B3cio" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1200&color=A020F0&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Transformando+dados+brutos+em+decis%C3%B5es+estrat%C3%A9gicas;%F0%9F%A4%96+Desenvolvendo+solu%C3%A7%C3%B5es+com+IA+e+Automa%C3%A7%C3%A3o;%F0%9F%93%8A+Dashboards+e+KPIs+que+geram+valor+real;%F0%9F%8C%90+Conectando+tecnologia+ao+resultado+de+neg%C3%B3cio" alt="Subtitle" />
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/🟢_Status-Disponível_para_projetos-00F7FF?style=for-the-badge)
+![Status](https://img.shields.io/badge/🟢_Status-Aberto_a_projetos_e_parcerias-00F7FF?style=for-the-badge)
 ![Local](https://img.shields.io/badge/📍_Local-Goiânia,_Brasil-A020F0?style=for-the-badge)
 <img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00F7FF?style=for-the-badge&logo=netlify&logoColor=black)](https://remarkable-centaur-a911b2.netlify.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abnerrum)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Sou **Abner Luiz**, Analista de Dados com foco em **IA e Automação**, baseado em Goiânia. Comecei minha jornada em 2022, graduado em **Gestão da Tecnologia da Informação** e atualmente cursando **Inteligência Artificial no SENAI**.
+Sou **Abner Luiz**, Analista de Dados com foco em **IA e Automação**, baseado em Goiânia/GO.
 
-No dia a dia, trabalho transformando dados brutos em decisões estratégicas — construindo pipelines, automatizando processos com `n8n` e `Python`, e entregando dashboards que geram valor real para o negócio.
+Atualmente trabalho como **Analista de Dados na Samsung**, onde analiso dados operacionais e estratégicos, crio relatórios e indicadores para apoiar decisões de negócio.
 
-Sou movido por problemas complexos e pela crença de que **dados bem usados mudam o resultado de qualquer operação**. Trabalho de forma estruturada, orientado a resultado e sempre buscando a solução mais eficiente.
+Sou graduado em **Gestão da Tecnologia da Informação com ênfase em IA** (FPM, 2025) e estou cursando a segunda graduação em **Inteligência Artificial no SENAI FATESG**.
+
+Acredito que **dados bem usados mudam o resultado de qualquer operação** — e é isso que me motiva todos os dias.
 
 > 💡 *"Dado sem decisão é custo. Decisão sem dado é chute."*
 
@@ -40,68 +41,57 @@ Sou movido por problemas complexos e pela crença de que **dados bem usados muda
 
 <div align="center">
 
-| 🗓️ Desde | 🛠️ Tecnologias | 🤖 Projetos com IA | 🌐 Idiomas |
-|:---------:|:--------------:|:------------------:|:----------:|
-| **2022** | **15+** | **10+** | **PT-BR · EN** |
+| 🗓️ Na área desde | 💼 Experiência atual | 🎓 Formação | 🌐 Idiomas |
+|:----------------:|:--------------------:|:-----------:|:----------:|
+| **2023** | **Samsung** | **GTI + IA** | **PT-BR · EN** |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎯 O que faço na prática
 
 ```
-📥 DADOS BRUTOS  →  🔧 PIPELINE  →  🤖 IA & AUTOMAÇÃO  →  📊 INSIGHT  →  💡 DECISÃO
+📥 DADOS BRUTOS  →  🔧 PIPELINE  →  📊 ANÁLISE  →  💡 DECISÃO ESTRATÉGICA
 ```
 
-- **Coleto e processo dados** de múltiplas fontes com Python, SQL e APIs REST
-- **Automatizo fluxos** de trabalho repetitivos usando n8n com integrações de IA
-- **Construo dashboards** estratégicos no Power BI e Looker Studio com KPIs de negócio
-- **Desenvolvo modelos preditivos** com Scikit-learn para forecasting e classificação
-- **Implemento agentes de IA** que tomam decisões autônomas em processos de negócio
+- **Analiso e interpreto** dados operacionais e estratégicos no dia a dia
+- **Crio relatórios e dashboards** com Power BI para apoio à tomada de decisão
+- **Automatizo fluxos** com Python e n8n (em evolução)
+- **Desenvolvo soluções web** com HTML, CSS, JavaScript e PHP
+- **Estudo e aplico** Machine Learning com Python e Scikit-learn
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ Stack Técnica
 
 <div align="center">
 
-### 🤖 IA, Machine Learning & Automação
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
 ### 📊 Analytics & Business Intelligence
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-### 💻 Desenvolvimento & Infra
+### 🤖 IA, Python & Automação *(em evolução)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+### 💻 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🔗 Integrações & APIs
-
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📂 Projetos em Destaque
 
@@ -109,17 +99,38 @@ Sou movido por problemas complexos e pela crença de que **dados bem usados muda
 
 | 🔧 Projeto | 📋 Descrição | 🛠️ Stack | 🚦 Status |
 |:-----------|:-------------|:---------|:---------:|
-| 🤖 **AutoFlow** | Pipeline de automação inteligente com decisões baseadas em IA | `n8n` `Python` `OpenAI API` | ![WIP](https://img.shields.io/badge/Em_Construção-F7931E?style=flat-square) |
-| 📊 **DataPanel** | Dashboard analítico com KPIs estratégicos e alertas automáticos | `Power BI` `SQL` `ETL` | ![WIP](https://img.shields.io/badge/Em_Construção-F7931E?style=flat-square) |
-| 🧠 **PredictML** | Modelo preditivo de churn com pipeline completo de ML | `Python` `Pandas` `Scikit-learn` | ![WIP](https://img.shields.io/badge/Em_Construção-F7931E?style=flat-square) |
-| 🕷️ **DataScraper** | Extração, limpeza e carga automatizada de dados da web | `Python` `Selenium` `PostgreSQL` | ![WIP](https://img.shields.io/badge/Em_Construção-F7931E?style=flat-square) |
-| 💬 **AI Agent** | Agente autônomo de atendimento integrado ao WhatsApp via n8n | `n8n` `LLM` `WhatsApp API` | ![WIP](https://img.shields.io/badge/Em_Construção-F7931E?style=flat-square) |
+| 📊 **DataPanel** | Dashboard com KPIs estratégicos e alertas automáticos | `Power BI` `SQL` | ![WIP](https://img.shields.io/badge/Em_breve-F7931E?style=flat-square) |
+| 🤖 **AutoFlow** | Pipeline de automação com decisões baseadas em IA | `n8n` `Python` `OpenAI` | ![WIP](https://img.shields.io/badge/Em_breve-F7931E?style=flat-square) |
+| 🧠 **PredictML** | Modelo preditivo de churn com pipeline de ML | `Python` `Pandas` `Scikit-learn` | ![WIP](https://img.shields.io/badge/Em_breve-F7931E?style=flat-square) |
+| 🌐 **Portfólio Dev** | Site portfólio pessoal com projetos e contato | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Online-00F7FF?style=flat-square)](https://remarkable-centaur-a911b2.netlify.app) |
 
 </div>
 
-> 💡 **Dica:** Clique nos repositórios fixados no meu perfil para ver detalhes, documentação e demos de cada projeto.
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📚 Formação & Aprendizado Contínuo
+
+```bash
+# roadmap de evolução — 2025
+
+[████████████████████████]  100%  GTI com ênfase em IA · FPM (Concluído)
+[████████████████████░░░░]   82%  Graduação em IA · SENAI FATESG
+[█████████████████░░░░░░░]   70%  Python para Análise de Dados
+[████████████████░░░░░░░░]   65%  Machine Learning Aplicado
+[██████████░░░░░░░░░░░░░░]   45%  Automação com n8n
+[████████████████████████]    ∞%  Curiosidade — nunca para
+```
+
+<div align="center">
+
+![FPM](https://img.shields.io/badge/GTI_+_IA-Conclu%C3%ADdo_2025-00F7FF?style=for-the-badge)
+![SENAI](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_IA-SENAI_FATESG-EA4B71?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP_FullStack-Em_andamento-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-Em_andamento-F7931E?style=for-the-badge)
+
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
@@ -134,55 +145,7 @@ Sou movido por problemas complexos e pela crença de que **dados bem usados muda
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerrum&theme=tokyonight&background=0D1117&border=00F7FF&stroke=00F7FF&ring=A020F0&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=ffffff" alt="Streak Stats"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF&area=true&hide_border=false&border_color=00F7FF" alt="Gráfico de Atividade"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Abnerrum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📚 Aprendizado Contínuo
-
-```bash
-# roadmap de evolução — 2025
-
-[████████████████████░░░░]  82%  Graduação em IA · SENAI
-[███████████████████████░]  94%  Python para Ciência de Dados
-[█████████████████░░░░░░░]  72%  Automação com n8n
-[████████████████░░░░░░░░]  65%  Machine Learning Avançado
-[██████████░░░░░░░░░░░░░░]  45%  Arquitetura de Agentes de IA
-[████████████████████████]   ∞%  Curiosidade — nunca para
-```
-
-<div align="center">
-
-![SENAI](https://img.shields.io/badge/Graduação_IA-SENAI-EA4B71?style=for-the-badge&logo=academia&logoColor=white)
-![Python DS](https://img.shields.io/badge/Python_Data_Science-Em_andamento-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning_Avançado-Em_andamento-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents_&_LLMs-Em_andamento-A020F0?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 👨‍💻 Modo Hacker Ativado
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Dev coding animation"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💬 Vamos conversar?
 
@@ -192,20 +155,17 @@ Sou movido por problemas complexos e pela crença de que **dados bem usados muda
 
 **Aberto a freelas, parcerias e projetos desafiadores.**
 
-Tem um projeto interessante, quer trocar ideias sobre dados e IA,
-ou discutir como automação pode transformar o seu negócio? **Me chama!** 👇
+Tem um projeto interessante ou quer trocar ideias sobre dados e IA? **Me chama!** 👇
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_encontre_aqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ver_projetos-00F7FF?style=for-the-badge&logo=netlify&logoColor=black)](https://remarkable-centaur-a911b2.netlify.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Falar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Email](https://img.shields.io/badge/Email-Mandar_mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- CORREÇÃO APLICADA: caracteres especiais agora estão em URL-encode -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+/%3E" alt="Footer" />
 
 </div>
