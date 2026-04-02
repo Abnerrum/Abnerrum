@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=⚡+Analista+de+Dados+na+Samsung;🤖+Construindo+o+futuro+com+IA+%26+Automação;📊+Power+BI+·+Python+·+SQL+·+n8n;🎓+GTI+%2B+IA+·+SENAI+FATESG;🚀+Goiânia+→+Qualquer+lugar" alt="Subtítulo" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=Analista+de+Dados+na+Samsung+%E2%9A%A1;Construindo+o+futuro+com+IA+%26+Automacao+%F0%9F%A4%96;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+n8n+%F0%9F%93%8A;GTI+%2B+IA+%C2%B7+SENAI+FATESG+%F0%9F%8E%93;Goiania+ao+Qualquer+lugar+%F0%9F%9A%80" alt="Subtitulo" />
 
 <br/><br/>
 
@@ -28,38 +28,27 @@
 
 <!-- ════════════════════════════════════════════════ ABOUT ME ══ -->
 
-<table>
-<tr>
-<td width="55%">
-
 ## `> whoami`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
 cargo:     Data Analyst @ Samsung
 base:      Goiânia, Goiás — Brasil
 formação:
-  - GTI com ênfase em IA (FPM, 2025) ✅
-  - Inteligência Artificial (SENAI FATESG) 🔄
+  - GTI com ênfase em IA · FPM 2025 ✅
+  - Inteligência Artificial · SENAI FATESG 🔄
 foco:
   - Análise de Dados Estratégicos
-  - Automação com IA
-  - Dashboards & KPIs
+  - Automação com IA · Dashboards & KPIs
   - Machine Learning (em evolução)
 disponível: true
 ```
 
-> *"Dado sem decisão é custo.*
-> *Decisão sem dado é chute."*
+> *"Dado sem decisão é custo. Decisão sem dado é chute."*
 
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -236,6 +225,6 @@ Se você tem um problema de dados ou uma ideia que envolve IA,
 
 <br/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+/%3E" alt="Footer" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=built+with+data+%C2%B7+driven+by+curiosity+%C2%B7+powered+by+coffee" alt="Footer" />
 
 </div>
