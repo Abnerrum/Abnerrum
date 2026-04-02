@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Nome principal fixo -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=1&pause=99999&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=1200&height=100&lines=ABNER+LUIZ" alt="Name" />
+<!-- Nome principal fixo — nunca some -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=1&pause=99999&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=1200&height=90&lines=ABNER+LUIZ" alt="Name" />
 
-<!-- Subtítulo de role fixo -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=A020F0&center=true&vCenter=true&width=1200&height=30&lines=PYTHON+·+N8N+·+POWER+BI+·+SQL+·+MACHINE+LEARNING" alt="Role" />
+<!-- Role fixo -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=A020F0&center=true&vCenter=true&width=1200&height=30&lines=DATA+ANALYST+·+AI+%26+AUTOMATION+·+PYTHON+·+N8N+·+POWER+BI+·+SQL" alt="Role" />
 
-<!-- Typing animation das frases rotativas -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=900&lines=🚀+Transformando+dados+em+decisões+estratégicas;🤖+Automatizando+processos+com+IA;📊+Construindo+pipelines+de+dados+inteligentes;🌐+Conectando+tecnologia+e+negócio" alt="Phrases" />
+<!-- Typing animation só nas frases rotativas -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=900&height=50&lines=🚀+Transformando+dados+em+decisões+estratégicas;🤖+Automatizando+processos+com+IA;📊+Construindo+pipelines+de+dados+inteligentes;🌐+Conectando+tecnologia+e+negócio" alt="Phrases" />
 
 <br/>
 
@@ -18,8 +18,11 @@
 <br/>
 
 ![Desde](https://img.shields.io/badge/Desde-2022-00F7FF?style=flat-square&labelColor=161B22)
+&nbsp;
 ![Techs](https://img.shields.io/badge/Tecnologias-15+-A020F0?style=flat-square&labelColor=161B22)
+&nbsp;
 ![IA](https://img.shields.io/badge/Projetos_IA-10+-00F7FF?style=flat-square&labelColor=161B22)
+&nbsp;
 ![Lang](https://img.shields.io/badge/Idiomas-PT·EN-A020F0?style=flat-square&labelColor=161B22)
 
 <br/>
@@ -31,11 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abnerrum)
-
-<br/>
-
-`< construído com dados · movido por curiosidade · alimentado por café />`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abnerrum)
 
 </div>
 
@@ -44,7 +43,7 @@
 ## 👨‍💻 Quem sou eu?
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-``````python
+```python
 class AbnerLuiz:
     nome      = "Abner Luiz Pascoal de Oliveira"
     idade     = 21
@@ -58,7 +57,7 @@ class AbnerLuiz:
 
     def falar_sobre_mim(self):
         return "Transformo caos de dados em decisões claras."
-`````​
+```
 
 > _💡 "Acredito que tecnologia e IA são as fronteiras finais para a eficiência humana."_
 
@@ -165,7 +164,7 @@ class AbnerLuiz:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Aprendizado Contínuo
-````bash
+```bash
 # progresso atual — 2025
 
 [████████████████████░░░░]  82%  Graduação em IA · SENAI
@@ -173,7 +172,7 @@ class AbnerLuiz:
 [█████████████████░░░░░░░]  72%  Automação com n8n
 [████████████████░░░░░░░░]  65%  Machine Learning Avançado
 [████████████████████████]   ∞%  Curiosidade — sempre ativo
-```​
+```
 
 <div align="center">
 
@@ -213,14 +212,12 @@ ou simplesmente bater papo sobre tecnologia — **me chama!** 👇
 [![LinkedIn](https://img.shields.io/badge/Me+encontre+no+LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/Fale+pelo+WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=4000&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=60&lines=%3C+constru%C3%ADdo+com+dados+%C2%B7+movido+por+curiosidade+%C2%B7+alimentado+por+caf%C3%A9+%2F%3E" alt="Footer" />
+
 </div>
-```
-
----
-
-**Resumo das mudanças no header** (área vermelha):
-
-- **Nome e role agora são fixos** — `duration=1&pause=99999` faz aparecer instantaneamente e nunca sumir. Era isso que causava o quadradão preto.
-- **Typing animation** mantida só nas frases rotativas, onde faz sentido visualmente.
-- **Badges de stats** em linha (`flat-square`) em vez de tabela, que ficava torta em telas menores.
-- `labelColor=0D1117` nos badges principais para combinar com o fundo escuro do GitHub.
