@@ -28,18 +28,13 @@
 
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class AbnerLuiz:
-    cargo     = "Analista de Dados | IA & Automação"
-    formacao  = "GTI + Graduação em IA — SENAI (em andamento)"
-    stack     = ["Python", "SQL", "n8n", "Power BI", "Scikit-learn"]
-    missao    = "Unir IA + Dados para escalar resultados reais."
+Sou **Abner Luiz**, Analista de Dados com foco em **IA e Automação**, baseado em Goiânia. Comecei minha jornada em 2022, graduado em **Gestão da Tecnologia da Informação** e atualmente cursando **Inteligência Artificial no SENAI**.
 
-    def filosofia(self):
-        return "Dado sem decisão é custo. Decisão sem dado é chute."
-```
+No dia a dia, trabalho transformando dados brutos em decisões estratégicas — construindo pipelines, automatizando processos com `n8n` e `Python`, e entregando dashboards que geram valor real para o negócio.
 
-> _💡 "Tecnologia e IA são as fronteiras finais para a eficiência humana."_
+Sou movido por problemas complexos e pela crença de que **dados bem usados mudam o resultado de qualquer operação**. Trabalho de forma estruturada, orientado a resultado e sempre buscando a solução mais eficiente.
+
+> 💡 *"Dado sem decisão é custo. Decisão sem dado é chute."*
 
 <br clear="right"/>
 
