@@ -1,36 +1,28 @@
 <div align="center">
 
-<!-- Nome principal fixo — nunca some -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=1&pause=99999&color=E6EDF3&background=0D111700&center=true&vCenter=true&width=1200&height=90&lines=ABNER+LUIZ" alt="Name" />
-
-<!-- Role fixo -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1&pause=99999&color=A020F0&center=true&vCenter=true&width=1200&height=30&lines=DATA+ANALYST+·+AI+%26+AUTOMATION+·+PYTHON+·+N8N+·+POWER+BI+·+SQL" alt="Role" />
-
-<!-- Typing animation só nas frases rotativas -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=900&height=50&lines=🚀+Transformando+dados+em+decisões+estratégicas;🤖+Automatizando+processos+com+IA;📊+Construindo+pipelines+de+dados+inteligentes;🌐+Conectando+tecnologia+e+negócio" alt="Phrases" />
+<!-- Banner animado -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=3000&pause=500&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=180&lines=ABNER+LUIZ;DATA+ANALYST+%7C+AI+%26+AUTOMATION;PYTHON+%7C+N8N+%7C+POWER+BI+%7C+SQL;ENGENHARIA+DE+DADOS+%7C+MACHINE+LEARNING" alt="Banner" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/🟢_Status-Disponível_para_projetos-00F7FF?style=for-the-badge&labelColor=0D1117)
-&nbsp;
-![Local](https://img.shields.io/badge/📍_Local-Goiânia,_Brasil-A020F0?style=for-the-badge&labelColor=0D1117)
+<!-- Typing animation subtítulo -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;%F0%9F%A4%96+Automatizando+processos+com+IA;%F0%9F%93%8A+Construindo+pipelines+de+dados+inteligentes;%F0%9F%8C%90+Conectando+tecnologia+e+neg%C3%B3cio" alt="Subtitle" />
 
 <br/>
 
-![Desde](https://img.shields.io/badge/Desde-2022-00F7FF?style=flat-square&labelColor=161B22)
+<!-- Status badge -->
+![Status](https://img.shields.io/badge/🟢_Status-Disponível_para_projetos-00F7FF?style=for-the-badge)
 &nbsp;
-![Techs](https://img.shields.io/badge/Tecnologias-15+-A020F0?style=flat-square&labelColor=161B22)
-&nbsp;
-![IA](https://img.shields.io/badge/Projetos_IA-10+-00F7FF?style=flat-square&labelColor=161B22)
-&nbsp;
-![Lang](https://img.shields.io/badge/Idiomas-PT·EN-A020F0?style=flat-square&labelColor=161B22)
+![Localização](https://img.shields.io/badge/📍_Local-Goiânia,_Brasil-A020F0?style=for-the-badge)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES+NO+PERFIL&labelColor=0D1117" />
+<!-- Contador de visitantes -->
+<img src="https://komarev.com/ghpvc/?username=Abnerrum&style=for-the-badge&color=00F7FF&label=VISITANTES+NO+PERFIL" />
 
 <br/><br/>
 
+<!-- Badges de contato -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-17b2b7211/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562992656358)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
@@ -43,6 +35,7 @@
 ## 👨‍💻 Quem sou eu?
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ```python
 class AbnerLuiz:
     nome      = "Abner Luiz Pascoal de Oliveira"
@@ -164,6 +157,7 @@ class AbnerLuiz:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📚 Aprendizado Contínuo
+
 ```bash
 # progresso atual — 2025
 
