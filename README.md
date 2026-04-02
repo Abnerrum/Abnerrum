@@ -30,26 +30,10 @@
 
 ```python
 class AbnerLuiz:
-    nome      = "Abner Luiz Pascoal de Oliveira"
-    idade     = 21
-    cargo     = "Analista de Dados | Especialista em IA & Automação"
-    formacao  = "Gestão em Tecnologia da Informação"
-    evolucao  = "Graduação em Inteligência Artificial — SENAI (em andamento)"
-
-    foco = [
-        "Engenharia de Dados",
-        "Automação Inteligente com IA",
-        "Machine Learning aplicado a negócio",
-    ]
-
-    stack_principal = {
-        "Análise":     ["Python", "Pandas", "SQL", "Power BI"],
-        "Automação":   ["n8n", "Selenium", "APIs REST"],
-        "ML/IA":       ["Scikit-learn", "Agentes de IA", "LLMs"],
-        "Banco Dados": ["PostgreSQL", "MySQL"],
-    }
-
-    missao = "Unir IA + Dados para escalar resultados reais de negócio."
+    cargo     = "Analista de Dados | IA & Automação"
+    formacao  = "GTI + Graduação em IA — SENAI (em andamento)"
+    stack     = ["Python", "SQL", "n8n", "Power BI", "Scikit-learn"]
+    missao    = "Unir IA + Dados para escalar resultados reais."
 
     def filosofia(self):
         return "Dado sem decisão é custo. Decisão sem dado é chute."
