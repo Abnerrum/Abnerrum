@@ -199,9 +199,9 @@ class AbnerLuiz:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A020F0,100:00F7FF&height=150&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A020F0,100:00F7FF&height=180&section=header&animation=twinkling&text=</>+Data+%7C+AI+%7C+Automation&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=Python+·+SQL+·+n8n+·+Power+BI+·+Machine+Learning&descAlignY=65&descSize=14&descColor=00F7FF" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:A020F0,100:0D1117&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:A020F0,100:0D1117&height=120&section=footer&animation=twinkling&text=_%7C_&fontSize=22&fontColor=00F7FF&fontAlignY=55" width="100%"/>
 
 </div>
 
