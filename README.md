@@ -1,13 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HERO ══ -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=130&lines=ABNER+LUIZ" alt="Nome" />
-
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABNER%20LUIZ&fontSize=62&fontColor=00F7FF&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descColor=ffffff&descSize=20"/>
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=Analista+de+Dados+na+Samsung+%E2%9A%A1;Construindo+o+futuro+com+IA+%26+Automacao+%F0%9F%A4%96;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+n8n+%F0%9F%93%8A;GTI+%2B+IA+%C2%B7+SENAI+FATESG+%F0%9F%8E%93;Goiania+ao+Qualquer+lugar+%F0%9F%9A%80" alt="Subtitulo" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/💼_EMPRESA-Samsung-1428A0?style=for-the-badge&labelColor=0D1117"/>
@@ -49,6 +47,15 @@ disponível: true
 > *"Dado sem decisão é custo. Decisão sem dado é chute."*
 
 <br clear="right"/>
+
+<!-- NOVA ANIMAÇÃO: Snake comendo contribuições -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -122,6 +129,11 @@ disponível: true
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br/>
+
+<!-- NOVA ANIMAÇÃO: Barra de habilidades animada com Metrics -->
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,js,html,css,php,git,linux,vscode&theme=dark&perline=10" />
+
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -185,6 +197,7 @@ $ cat roadmap_2025.log
 
 <br/>
 
+<!-- NOVA ANIMAÇÃO: Gráfico de atividade com estilo diferente -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF&area=true&hide_border=false&border_color=00F7FF&radius=10"/>
 
 </div>
@@ -200,6 +213,11 @@ $ cat roadmap_2025.log
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- NOVA ANIMAÇÃO: Ondas 3D no meio do perfil -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+</div>
 
 <!-- ════════════════════════════════════════════════ CONTACT ══ -->
 
@@ -225,6 +243,7 @@ Se você tem um problema de dados ou uma ideia que envolve IA,
 
 <br/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=built+with+data+%C2%B7+driven+by+curiosity+%C2%B7+powered+by+coffee" alt="Footer" />
+<!-- NOVA ANIMAÇÃO: Footer wave com capsule-render -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=built%20with%20data%20%C2%B7%20driven%20by%20curiosity%20%C2%B7%20powered%20by%20coffee&fontSize=14&fontColor=00F7FF&animation=twinkling&fontAlignY=70"/>
 
 </div>
