@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HERO ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ABNER%20LUIZ&fontSize=62&fontColor=00F7FF&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=55&descColor=ffffff&descSize=20"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=140&lines=ABNER+LUIZ" alt="Nome" />
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=55&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=Analista+de+Dados+na+Samsung+%E2%9A%A1;Construindo+o+futuro+com+IA+%26+Automacao+%F0%9F%A4%96;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+n8n+%F0%9F%93%8A;GTI+%2B+IA+%C2%B7+SENAI+FATESG+%F0%9F%8E%93;Goiania+ao+Qualquer+lugar+%F0%9F%9A%80" alt="Subtitulo" />
 
@@ -28,7 +30,7 @@
 
 ## `> whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
