@@ -1,9 +1,68 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HERO ══ -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=140&lines=ABNER+LUIZ" alt="Nome" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=55&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
+<!-- Banner principal animado (SVG inline — sem dependência externa) -->
+<svg width="100%" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#0d1f2d;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00F7FF"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#A020F0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Partículas animadas -->
+    <circle id="p" r="2" fill="#00F7FF" opacity="0.6"/>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bgGrad)"/>
+  <!-- Grade de pontos decorativa -->
+  <g opacity="0.07">
+    <line x1="0" y1="50" x2="1200" y2="50" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="0" y1="100" x2="1200" y2="100" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="0" y1="150" x2="1200" y2="150" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="200" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="200" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="200" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="200" stroke="#00F7FF" stroke-width="0.5"/>
+    <line x1="1000" y1="0" x2="1000" y2="200" stroke="#00F7FF" stroke-width="0.5"/>
+  </g>
+  <!-- Barra de acento superior -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#textGrad)"/>
+  <!-- Barra de acento inferior -->
+  <rect x="0" y="197" width="1200" height="3" fill="url(#textGrad)"/>
+  <!-- Nome principal com glow -->
+  <text x="600" y="110" font-family="'Courier New', monospace" font-size="72" font-weight="900"
+        fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="12">
+    ABNER LUIZ
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <!-- Subtítulo -->
+  <text x="600" y="148" font-family="'Courier New', monospace" font-size="16" font-weight="400"
+        fill="#ffffff" text-anchor="middle" opacity="0.75" letter-spacing="4">
+    DATA ANALYST · AI &amp; AUTOMATION ENGINEER
+  </text>
+  <!-- Ponto pulsante esquerdo -->
+  <circle cx="80" cy="100" r="4" fill="#00F7FF" filter="url(#glow)">
+    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Ponto pulsante direito -->
+  <circle cx="1120" cy="100" r="4" fill="#A020F0" filter="url(#glow)">
+    <animate attributeName="r" values="3;6;3" dur="2s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Linhas decorativas laterais -->
+  <line x1="30" y1="100" x2="60" y2="100" stroke="#00F7FF" stroke-width="1.5" opacity="0.5"/>
+  <line x1="1140" y1="100" x2="1170" y2="100" stroke="#A020F0" stroke-width="1.5" opacity="0.5"/>
+</svg>
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=Analista+de+Dados+na+Samsung+%E2%9A%A1;Construindo+o+futuro+com+IA+%26+Automacao+%F0%9F%A4%96;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+n8n+%F0%9F%93%8A;GTI+%2B+IA+%C2%B7+SENAI+FATESG+%F0%9F%8E%93;Goiania+ao+Qualquer+lugar+%F0%9F%9A%80" alt="Subtitulo" />
 
@@ -50,13 +109,10 @@ disponível: true
 
 <br clear="right"/>
 
-<!-- NOVA ANIMAÇÃO: Snake comendo contribuições -->
+<!-- ANIMAÇÃO: Pacman comendo dots — sem necessidade de GitHub Actions -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Abnerrum/Abnerrum/main/assets/pacman.svg" width="100%" onerror="this.style.display='none'"/>
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=800&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=30&lines=⠀⠀⠀●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●;⠀⠀⠀○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○○;⠀⠀⠀·····················································" alt="dots"/>
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -216,10 +272,19 @@ $ cat roadmap_2025.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!-- NOVA ANIMAÇÃO: Ondas 3D no meio do perfil -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-</div>
+<!-- Divisor decorativo inline -->
+<svg width="100%" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="25%" style="stop-color:#00F7FF"/>
+      <stop offset="50%" style="stop-color:#A020F0"/>
+      <stop offset="75%" style="stop-color:#00F7FF"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="3" fill="url(#divGrad)" y="1.5"/>
+</svg>
 
 <!-- ════════════════════════════════════════════════ CONTACT ══ -->
 
@@ -227,7 +292,7 @@ $ cat roadmap_2025.log
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120"/>
 
 ### Aberto a freelas · parcerias · projetos desafiadores
 
@@ -245,7 +310,36 @@ Se você tem um problema de dados ou uma ideia que envolve IA,
 
 <br/>
 
-<!-- NOVA ANIMAÇÃO: Footer wave com capsule-render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=built%20with%20data%20%C2%B7%20driven%20by%20curiosity%20%C2%B7%20powered%20by%20coffee&fontSize=14&fontColor=00F7FF&animation=twinkling&fontAlignY=70"/>
+<!-- Footer SVG animado inline — sem dependência externa -->
+<svg width="100%" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="30%" style="stop-color:#0d1f2d"/>
+      <stop offset="70%" style="stop-color:#0d1f2d"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="20%" style="stop-color:#00F7FF"/>
+      <stop offset="50%" style="stop-color:#A020F0"/>
+      <stop offset="80%" style="stop-color:#00F7FF"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="80" fill="url(#footerGrad)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="url(#lineGrad)"/>
+  <text x="600" y="48" font-family="'Courier New', monospace" font-size="13"
+        fill="#00F7FF" text-anchor="middle" filter="url(#glow2)" letter-spacing="3" opacity="0.9">
+    built with data · driven by curiosity · powered by coffee ☕
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <!-- Scanline decorativa -->
+  <rect x="100" y="62" width="1000" height="1" fill="#00F7FF" opacity="0.1"/>
+</svg>
 
 </div>
