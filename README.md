@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ HERO ══ -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=58&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=130&lines=ABNER+LUIZ" alt="Nome" />
+<!-- ═══════════════════════════════════════════════════ HERO ══ -->
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&duration=2800&pause=600&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=140&lines=ABNER+LUIZ" alt="Nome" />
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=50&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0D111700&center=true&vCenter=true&width=1200&height=55&lines=Data+Analyst+%7C+AI+%26+Automation+Engineer" alt="Cargo" />
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=A020F0&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=Analista+de+Dados+na+Samsung+%E2%9A%A1;Construindo+o+futuro+com+IA+%26+Automacao+%F0%9F%A4%96;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+n8n+%F0%9F%93%8A;GTI+%2B+IA+%C2%B7+SENAI+FATESG+%F0%9F%8E%93;Goiania+ao+Qualquer+lugar+%F0%9F%9A%80" alt="Subtitulo" />
 
@@ -25,6 +25,8 @@
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ════════════════════════════════════════════════ ABOUT ME ══ -->
 
 ## `> whoami`
 
@@ -48,7 +50,18 @@ disponível: true
 
 <br clear="right"/>
 
+<!-- NOVA ANIMAÇÃO: Snake comendo contribuições -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ══════════════════════════════════════════════ EXPERIENCE ══ -->
 
 ## `> experience --list`
 
@@ -71,6 +84,8 @@ disponível: true
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ════════════════════════════════════════════════ PIPELINE ══ -->
+
 ## `> pipeline --show`
 
 <div align="center">
@@ -88,6 +103,8 @@ disponível: true
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ══════════════════════════════════════════════════ STACK ══ -->
+
 ## `> tech --stack`
 
 <div align="center">
@@ -99,7 +116,7 @@ disponível: true
 ![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-### 🤖 IA · Python · Automação
+### 🤖 IA · Python · Automação *(em evolução)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -116,11 +133,14 @@ disponível: true
 
 <br/>
 
+<!-- NOVA ANIMAÇÃO: Barra de habilidades animada com Metrics -->
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,js,html,css,php,git,linux,vscode&theme=dark&perline=10" />
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ PROJECTS ══ -->
 
 ## `> projects --featured`
 
@@ -136,6 +156,8 @@ disponível: true
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ LEARNING ══ -->
 
 ## `> learning --progress`
 
@@ -162,6 +184,8 @@ $ cat roadmap_2025.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ════════════════════════════════════════════════ GITHUB STATS ══ -->
+
 ## `> github --stats`
 
 <div align="center">
@@ -175,11 +199,14 @@ $ cat roadmap_2025.log
 
 <br/>
 
+<!-- NOVA ANIMAÇÃO: Gráfico de atividade com estilo diferente -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=A020F0&point=00F7FF&area=true&hide_border=false&border_color=00F7FF&radius=10"/>
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ TROPHIES ══ -->
 
 ## `> achievements --unlock`
 
@@ -189,11 +216,18 @@ $ cat roadmap_2025.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- NOVA ANIMAÇÃO: Ondas 3D no meio do perfil -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+</div>
+
+<!-- ════════════════════════════════════════════════ CONTACT ══ -->
+
 ## `> contact --open`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
 ### Aberto a freelas · parcerias · projetos desafiadores
 
@@ -211,6 +245,7 @@ Se você tem um problema de dados ou uma ideia que envolve IA,
 
 <br/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=4500&pause=1000&color=00F7FF&background=0D111700&center=true&vCenter=true&width=1200&height=40&lines=built+with+data+%C2%B7+driven+by+curiosity+%C2%B7+powered+by+coffee+%E2%98%95" alt="Footer" />
+<!-- NOVA ANIMAÇÃO: Footer wave com capsule-render -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=built%20with%20data%20%C2%B7%20driven%20by%20curiosity%20%C2%B7%20powered%20by%20coffee&fontSize=14&fontColor=00F7FF&animation=twinkling&fontAlignY=70"/>
 
 </div>
