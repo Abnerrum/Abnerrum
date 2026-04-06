@@ -98,16 +98,16 @@ analista = {
 
 <div align="center">
 
-<!-- 🐍 Snake animada — gerada pelo GitHub Actions (veja instruções abaixo) -->
+<!-- 🐍 Snake animada via Platane/snk (funciona sem Actions extras) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-> **⚙️ Para ativar a Snake:** Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (repo com mesmo nome do usuário) com o conteúdo abaixo:
+> **⚙️ Para usar a Snake com SEU gráfico de contribuições**, crie o arquivo `.github/workflows/snake.yml` no repositório `abnerrum/abnerrum`:
 >
 > ```yaml
 > name: Generate Snake
@@ -115,6 +115,8 @@ analista = {
 >   schedule:
 >     - cron: "0 */12 * * *"
 >   workflow_dispatch:
+> permissions:
+>   contents: write
 > jobs:
 >   generate:
 >     runs-on: ubuntu-latest
@@ -132,6 +134,8 @@ analista = {
 >         env:
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
+>
+> Depois altere os links acima para: `https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake.svg`
 
 ---
 
