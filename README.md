@@ -94,15 +94,11 @@ analista = {
 
 ---
 
-## 🐍 Snake comendo meus commits
+## 🟡 Pac-Man comendo meus commits
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="./pacman.svg" alt="pacman eating my commits" width="100%" />
 
 </div>
 
