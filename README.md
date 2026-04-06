@@ -67,24 +67,38 @@ analista = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10" />
+
+| 📈 Commits | 🌍 Linguagens |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true) |
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true&background=0D1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0D1117&color=F85D7F&line=E040FB&point=FFFFFF&hide_border=true&radius=8" />
-</div>
+> 💡 *Se as imagens acima não carregarem, acesse diretamente:*
+> - [📊 Suas estatísticas](https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical)
+> - [🔥 Sua sequência](https://streak-stats.demolab.com?user=abnerrum&theme=radical)
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abnerrum&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
+
+| 🏅 Métrica | 📊 Valor |
+|---|---|
+| ⭐ Repositórios Públicos | Veja em [github.com/abnerrum](https://github.com/abnerrum?tab=repositories) |
+| 🔁 Contribuições | Veja no [perfil do GitHub](https://github.com/abnerrum) |
+| 📅 Membro desde | 2023 |
+
+![GitHub followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=blueviolet&labelColor=0D1117&label=Seguidores)
+![GitHub User's stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=yellow&labelColor=0D1117&label=Stars%20Totais)
+
 </div>
 
 ---
