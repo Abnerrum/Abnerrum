@@ -98,11 +98,7 @@ analista = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="pacman eating my commits" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://pacman-contribution-graph.vercel.app/api?username=abnerrum&bg=0d1117&color=e040fb&dotColor=9c27b0" width="100%" alt="Pac-Man eating my commits" />
 
 </div>
 
