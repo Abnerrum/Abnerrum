@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- Banner animado -->
+<!-- Banner animado com efeito waving -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:e040fb&height=200&section=header&text=Abner%20Luiz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=55&descSize=20" />
+
+<!-- 👾 GIF de coding/matrix -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
 
 # 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
 
@@ -77,6 +80,61 @@ analista = {
 
 ---
 
+## 📈 Gráfico 3D de Contribuições
+
+<div align="center">
+
+<!-- 📊 Gráfico isométrico/3D de contribuições -->
+[![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnerrum&theme=radical)](https://github.com/abnerrum)
+
+<!-- Alternativa com view isométrico -->
+[![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&theme=react-dark&hide_border=true&area=true)](https://github.com/abnerrum)
+
+</div>
+
+---
+
+## 🐍 Snake comendo meus commits
+
+<div align="center">
+
+<!-- 🐍 Snake animada — gerada pelo GitHub Actions (veja instruções abaixo) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my commits" src="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> **⚙️ Para ativar a Snake:** Crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil (repo com mesmo nome do usuário) com o conteúdo abaixo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: abnerrum
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
 ## 🏆 Conquistas
 
 <div align="center">
@@ -102,8 +160,9 @@ analista = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e040fb,100:6e40c9&height=120&section=footer" />
+<!-- 🌊 Footer com animação de ondas aprimorada (dupla camada) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e040fb,50:9c27b0,100:6e40c9&height=150&section=footer&animation=twinkling" />
 
-Feito por Abner Luiz 🚀
+Feito com 💜 por Abner Luiz 🚀
 
 </div>
