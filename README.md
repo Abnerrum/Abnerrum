@@ -58,8 +58,6 @@ disponível: true
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45%" alt="developer gif"/>
-  &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="45%" alt="coding animation 2"/>
 </div>
 
