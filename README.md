@@ -55,11 +55,14 @@ disponível: true
 
 > *"Dado sem decisão é custo. Decisão sem dado é chute."*
 <div align="center">
-  <!-- Animação focada em Análise de Dados / BI (O lado "Cliente/Negócio") -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223155-0c25f791-54da-4651-b4d0-24401fc5773a.gif" width="45%" alt="data analyst animation"/>
-  &nbsp;&nbsp;
-  <!-- Animação focada em Full Stack / Coding (O lado "Desenvolvedor") -->
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="developer animation"/>
+  <!-- 📊 COLUNA 1: ANÁLISE DE DADOS -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223155-0c25f791-54da-4651-b4d0-24401fc5773a.gif" width="31%" alt="Data Analysis"/>
+  
+  <!-- 🤖 COLUNA 2: IA & AUTOMAÇÃO (A novidade!) -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="31%" alt="AI & Automation"/>
+  
+  <!-- 💻 COLUNA 3: FULL STACK / DEV -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="31%" alt="Full Stack Dev"/>
 </div>
 <!-- ANIMAÇÃO: Snake comendo contribuições -->
 <div align="center">
