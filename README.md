@@ -30,7 +30,7 @@
 
 ## `> whoami`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="40%" alt="Coding GIF"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="35%" alt="Coding GIF"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
@@ -187,7 +187,7 @@ disponível: true
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.exe.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- ═══════════════════════════════════════════════ FORMAÇÃO ══ -->
 
