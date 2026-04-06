@@ -83,7 +83,7 @@ disponível: true
 
 <div align="center">
 
-```
+```text
 ╔══════════════════════════════════════════════════════════════════╗
 ║  📊  ANALISTA DE DADOS                ·  SAMSUNG      ·  ATUAL   ║
 ║      • Análise e interpretação de dados operacionais             ║
@@ -120,7 +120,7 @@ disponível: true
 
 <div align="center">
 
-```
+```text
  ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
  │  📥 RAW  │────▶│  🔧 ETL  │────▶│ 🤖 MODEL │────▶│ 📊 DASH  │────▶│ 💡 AÇÃO  │
  │  DATA    │     │ PROCESS  │     │  AI/ML   │     │ POWER BI │     │ESTRATÉG. │
@@ -226,13 +226,13 @@ $ cat formacao_academica.log
 ```bash
 $ cat roadmap_2025.log
 
-[██████████████████████████]  ✅  Gestão da TI + IA .............. CONCLUÍDO
+[██████████████████████████]  100% Gestão da TI + IA .............. CONCLUÍDO
 [████████████████████░░░░░░]  82%  IA · SENAI FATESG ............. EM ANDAMENTO
 [█████████████████░░░░░░░░░]  70%  Python para Análise de Dados .. EM ANDAMENTO
 [████████████████░░░░░░░░░░]  65%  Desenvolvimento Full Stack ..... EM ANDAMENTO
 [███████████░░░░░░░░░░░░░░░]  45%  Machine Learning Aplicado ...... EM ANDAMENTO
 [██████████░░░░░░░░░░░░░░░░]  40%  PHP FullStack ................. EM ANDAMENTO
-[████████████████████████░░]   ∞%  Curiosidade ................... NUNCA PARA
+[██████████████████████████]   ∞%  Curiosidade ................... NUNCA PARA
 ```
 
 <div align="center">
@@ -287,7 +287,7 @@ $ cat roadmap_2025.log
 
 ### Aberto a freelas · parcerias · projetos desafiadores
 
-```
+```text
 Se você tem um problema de dados, uma ideia que envolve IA,
 ou quer colaborar em um projeto inovador, eu quero ouvir. 👇
 ```
