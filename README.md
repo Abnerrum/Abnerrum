@@ -115,8 +115,15 @@ analista = {
 
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=abnerrum&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
 ![GitHub followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=blueviolet&labelColor=0D1117&label=Seguidores)
 ![GitHub User's stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=yellow&labelColor=0D1117&label=Stars%20Totais)
+![GitHub commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abnerrum&label=Repos%20Públicos&query=$.public_repos&style=for-the-badge&color=orange&labelColor=0D1117)
 
 </div>
 
