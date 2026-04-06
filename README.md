@@ -96,32 +96,9 @@ analista = {
 
 ## 🟡 Pac-Man comendo meus commits
 
-<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="100" fill="#0d1117" rx="8"/>
-
-  <!-- Dots (commits) -->
-  <g fill="#e040fb" opacity="0.9">
-    <!-- Row of dots that get eaten -->
-    <circle cx="120" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="0.3s"/></circle>
-    <circle cx="160" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="0.55s"/></circle>
-    <circle cx="200" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="0.8s"/></circle>
-    <circle cx="240" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="1.05s"/></circle>
-    <circle cx="280" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="1.3s"/></circle>
-    <circle cx="320" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="1.55s"/></circle>
-    <circle cx="360" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="1.8s"/></circle>
-    <circle cx="400" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="2.05s"/></circle>
-    <circle cx="440" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="2.3s"/></circle>
-    <circle cx="480" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="2.55s"/></circle>
-    <circle cx="520" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="2.8s"/></circle>
-    <circle cx="560" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="3.05s"/></circle>
-    <circle cx="600" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="3.3s"/></circle>
-    <circle cx="640" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="3.55s"/></circle>
-    <circle cx="680" cy="50" r="5"><animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite" begin="3.8s"/></circle>
-    <!-- Power pellets -->
-    <circle cx="720" cy="50" r="9" fill="#9c27b0"><animate attributeName="opacity" values="1;0.3;1" dur="0.6s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <!-- Pac-Man body -->
+<div align="center">
+<img src="./pacman.gif" alt="pacman eating my commits" width="100%" />
+</div>
   <g>
     <animateTransform attributeName="transform" type="translate" values="-30,0;750,0;750,0;-30,0" dur="4s" repeatCount="indefinite" keyTimes="0;0.88;1;1"/>
 
