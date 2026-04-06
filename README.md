@@ -74,26 +74,6 @@ disponível: true
 
 <div align="center">
 
-<style>
-@keyframes blink {
-  0%, 49%, 100% { border-color: #FF0000; box-shadow: 0 0 10px #FF0000; }
-  50%, 99% { border-color: #00FF00; box-shadow: 0 0 10px #00FF00; }
-}
-
-.terminal-box {
-  border: 3px solid #FF0000;
-  border-radius: 8px;
-  padding: 20px;
-  background-color: #0F172A;
-  animation: blink 1.5s infinite;
-  display: inline-block;
-  width: 90%;
-  box-shadow: 0 0 10px #FF0000;
-}
-</style>
-
-<div class="terminal-box">
-
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  📊  ANALISTA DE DADOS                ·  SAMSUNG      ·  ATUAL   ║
@@ -123,8 +103,6 @@ disponível: true
 
 </div>
 
-</div>
-
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- ════════════════════════════════════════════════ PIPELINE ══ -->
@@ -132,26 +110,6 @@ disponível: true
 ## `> pipeline --show`
 
 <div align="center">
-
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.6; }
-}
-
-.pipeline-box {
-  border: 2px solid #10B981;
-  border-radius: 8px;
-  padding: 20px;
-  background-color: rgba(15, 23, 42, 0.8);
-  animation: pulse 2s ease-in-out infinite;
-  display: inline-block;
-  width: 90%;
-  box-shadow: 0 0 15px rgba(16, 185, 129, 0.5);
-}
-</style>
-
-<div class="pipeline-box">
 
 ```
  ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
@@ -164,8 +122,6 @@ disponível: true
 
 </div>
 
-</div>
-
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- ══════════════════════════════════════════════════ STACK ══ -->
@@ -174,18 +130,6 @@ disponível: true
 
 <div align="center">
 
-<style>
-@keyframes glow {
-  0%, 100% { text-shadow: 0 0 5px #10B981; }
-  50% { text-shadow: 0 0 20px #10B981, 0 0 30px #10B981; }
-}
-
-.stack-title {
-  animation: glow 2s ease-in-out infinite;
-  color: #10B981;
-}
-</style>
-
 ### 📊 Analytics & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -193,7 +137,7 @@ disponível: true
 ![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🤖 IA · Python · Automação *(em evolução)*
+### 🤖 IA · Python · Automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
