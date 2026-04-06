@@ -57,11 +57,6 @@ disponível: true
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="developer gif"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/238200622-52a561ab-b82f-4ae2-a516-674f84422cd1.gif" width="45%" alt="coding animation 2"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="developer gif"/>
