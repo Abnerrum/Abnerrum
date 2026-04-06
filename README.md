@@ -67,16 +67,16 @@ analista = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnerrum&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true&background=0D1117&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&theme=redical&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0D1117&color=F85D7F&line=E040FB&point=FFFFFF&hide_border=true&radius=8" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ analista = {
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abnerrum&theme=radical&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abnerrum&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </div>
 
 ---
