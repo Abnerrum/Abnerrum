@@ -1,3 +1,5 @@
+code
+Markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HERO ══ -->
@@ -30,10 +32,7 @@
 
 ## `> whoami`
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="55%" valign="top">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="380" alt="Coding GIF"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
@@ -51,30 +50,16 @@ foco:
   - Análise de Dados Estratégicos
   - Inteligência Artificial & Automação
   - Dashboards & KPIs com Power BI
-code
-Code
-</td>
-<td width="45%" valign="center" align="center">
-  <!-- Animação do Cérebro/IA / Setup Digital -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
 <br/>
 <div align="center">
-<p align="center"><i>"Dado sem decisão é custo. Decisão sem dado é chute."</i></p>
-<!-- TRIO DE ANIMAÇÕES: DADOS | IA | DEV -->
-<table border="0" align="center">
-<tr>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/229223155-0c25f791-54da-4651-b4d0-24401fc5773a.gif" width="280" alt="Data Analysis"/></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/235451010-0967a68e-e23a-4469-807e-3f62f3922f27.gif" width="280" alt="AI Neural"/></td>
-<td align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Coding Dev"/></td>
-</tr>
-</table>
+<p><i>"Dado sem decisão é custo. Decisão sem dado é chute."</i></p>
+<!-- TRIO DE ANIMAÇÕES ALINHADAS -->
+<img src="https://user-images.githubusercontent.com/74038190/229223155-0c25f791-54da-4651-b4d0-24401fc5773a.gif" width="31%" alt="Data Analysis"/>
+<img src="https://user-images.githubusercontent.com/74038190/235451010-0967a68e-e23a-4469-807e-3f62f3922f27.gif" width="31%" alt="AI Neural"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="31%" alt="Coding Dev"/>
 </div>
 <br/>
-<!-- ANIMAÇÃO: Snake con contribution grid -->
+<!-- ANIMAÇÃO: Snake contribution grid -->
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -93,16 +78,13 @@ Code
 ║      • Análise e interpretação de dados operacionais             ║
 ║      • Criação de relatórios e indicadores estratégicos          ║
 ║      • Organização e tratamento de dados para insights           ║
-║      • Apoio à tomada de decisão com dados                       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  📦  ANALISTA OPERACIONAL             ·  MUVE DELIVER ·  2025    ║
 ║      • Suporte a entregadores e parceiros da plataforma          ║
-║      • Monitoramento de ocorrências operacionais                 ║
 ║      • Resolução de problemas logísticos                         ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🛠️  ESTAGIÁRIO TI                    ·  NÚCLEO GOV   ·  2023-24  ║
 ║      • Atendimento a usuários via sistema de chamados            ║
-║      • Testes e verificação de sites e ferramentas digitais      ║
 ╚══════════════════════════════════════════════════════════════════╝
 </div>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -115,7 +97,6 @@ Code
  │  📥 RAW  │────▶│  🔧 ETL  │────▶│ 🤖 MODEL │────▶│ 📊 DASH  │────▶│ 💡 AÇÃO  │
  │  DATA    │     │ PROCESS  │     │  AI/ML   │     │ POWER BI │     │ESTRATÉG. │
  └──────────┘     └──────────┘     └──────────┘     └──────────┘     └──────────┘
-      SQL              Python         Scikit-learn       Power BI         Decisão
 </div>
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <!-- ══════════════════════════════════════════════════ STACK ══ -->
@@ -126,21 +107,13 @@ Code
 
 ![alt text](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![alt text](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-🤖 IA & Automação
 ![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![alt text](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-💻 Full Stack
-![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+💻 Full Stack & IA
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![alt text](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <br/>
 <!-- Skills Icons Grid -->
 <a href="https://skillicons.dev">
@@ -166,10 +139,7 @@ Aberto a freelas · parcerias · projetos desafiadores
 ![alt text](https://img.shields.io/badge/LinkedIn-Me_encontrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)
 
 ![alt text](https://img.shields.io/badge/Portf%C3%B3lio-Ver_projetos-10B981?style=for-the-badge&logo=globe&logoColor=black&labelColor=0F172A)
-
-![alt text](https://img.shields.io/badge/WhatsApp-Falar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F172A)
 <br/>
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,16,17&height=120&section=footer&text=built%20with%20data%20%C2%B7%20driven%20by%20curiosity%20%C2%B7%20powered%20by%20coffee&fontSize=14&fontColor=10B981&animation=twinkling&fontAlignY=70"/>
 </div>
-```
