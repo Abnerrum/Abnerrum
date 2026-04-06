@@ -97,24 +97,11 @@ analista = {
 ## 🟡 Pac-Man comendo meus commits
 
 <div align="center">
-<img src="./pacman.gif" alt="pacman eating my commits" width="100%" />
-</div>
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="-30,0;750,0;750,0;-30,0" dur="4s" repeatCount="indefinite" keyTimes="0;0.88;1;1"/>
 
-    <!-- Pac-Man shape using path for animated mouth -->
-    <g transform="translate(0,0)">
-      <!-- Mouth open -->
-      <path fill="#FFD700" d="M50,50 L80,30 A30,30 0 1,1 80,70 Z">
-        <animate attributeName="d"
-          values="M50,50 L80,30 A30,30 0 1,1 80,70 Z;M50,50 L80,46 A30,30 0 1,1 80,54 Z;M50,50 L80,30 A30,30 0 1,1 80,70 Z"
-          dur="0.3s" repeatCount="indefinite"/>
-      </path>
-      <!-- Eye -->
-      <circle cx="65" cy="35" r="4" fill="#0d1117"/>
-    </g>
-  </g>
-</svg>
+<img src="./pacman.gif" alt="pacman eating my commits" width="100%" />
+
+</div>
+
 
 
 ---
