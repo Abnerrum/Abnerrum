@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════ HERO ══ -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&duration=2800&pause=600&color=10B981&background=0F172A00&center=true&vCenter=true&width=1200&height=140&lines=ABNER+LUIZ" alt="Nome" />
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2000&pause=500&color=ffffff&background=0F172A00&center=true&vCenter=true&width=1200&height=55&lines=Analista+de+Dados+%7C+Desenvolvedor+Full+Stack" alt="Cargo" />
@@ -25,9 +26,12 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ════════════════════════════════════════════════ ABOUT ME ══ -->
+
 ## `> whoami`
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
 cargo:     Analista de Dados @ Samsung
@@ -53,6 +57,7 @@ disponível: true
 
 <br clear="right"/>
 
+<!-- ANIMAÇÃO: Snake comendo contribuições -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -63,19 +68,63 @@ disponível: true
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ══════════════════════════════════════════════ EXPERIENCE ══ -->
+
 ## `> experience --list`
 
 <div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  📊  ANALISTA DE DADOS                ·  SAMSUNG      ·  ATUAL   ║
+║      • Análise e interpretação de dados operacionais             ║
+║      • Criação de relatórios e indicadores estratégicos          ║
+║      • Organização e tratamento de dados para insights           ║
+║      • Apoio à tomada de decisão com dados                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📦  ANALISTA OPERACIONAL             ·  MUVE DELIVER ·  2025    ║
+║      • Suporte a entregadores e parceiros da plataforma          ║
+║      • Monitoramento de ocorrências operacionais                 ║
+║      • Resolução de problemas logísticos                         ║
+║      • Contrato PJ (07/2025 – 09/2025)                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🛠️  ESTAGIÁRIO TI                    ·  NÚCLEO GOV   ·  2023-24  ║
+║      • Atendimento a usuários via sistema de chamados            ║
+║      • Testes e verificação de sites e ferramentas digitais      ║
+║      • Atualização de conteúdos em portais institucionais        ║
+║      • Período: 09/2023 – 08/2024                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  👨‍💼  JOVEM APRENDIZ                   ·  CHOPP BRAHMA  ·  2023     ║
+║      • Apoio em atividades operacionais de produção              ║
+║      • Organização de cargas e produtos                          ║
+║      • Período: 02/2023 – 09/2023                                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ════════════════════════════════════════════════ PIPELINE ══ -->
 
 ## `> pipeline --show`
 
 <div align="center">
+
+```
+ ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
+ │  📥 RAW  │────▶│  🔧 ETL  │────▶│ 🤖 MODEL │────▶│ 📊 DASH  │────▶│ 💡 AÇÃO  │
+ │  DATA    │     │ PROCESS  │     │  AI/ML   │     │ POWER BI │     │ESTRATÉG. │
+ └──────────┘     └──────────┘     └──────────┘     └──────────┘     └──────────┘
+      SQL              Python         Scikit-learn       Power BI         Decisão
+   PostgreSQL          Pandas            TensorFlow      Looker Studio    de Negócio
+```
+
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ══════════════════════════════════════════════════ STACK ══ -->
 
 ## `> tech --stack`
 
@@ -106,11 +155,14 @@ disponível: true
 
 <br/>
 
+<!-- ANIMAÇÃO: Ícones de skills -->
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,js,html,css,php,react,git,linux,vscode&theme=dark&perline=11" />
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ PROJECTS ══ -->
 
 ## `> projects --featured`
 
@@ -127,13 +179,12 @@ disponível: true
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ═══════════════════════════════════════════════ FORMAÇÃO ══ -->
+
 ## `> education --list`
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="studying animation"/>
-
-<br/><br/>
 ```bash
 $ cat formacao_academica.log
 
@@ -149,8 +200,6 @@ $ cat formacao_academica.log
    └─ Status: Em andamento 🔄
 ```
 
-<br/>
-
 ### Cursos Complementares
 
 ![Cibersegurança](https://img.shields.io/badge/Inteligência_de_Ameaças_Cibernéticas-24h_2024-EA4B71?style=for-the-badge&labelColor=0F172A)
@@ -162,7 +211,10 @@ $ cat formacao_academica.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ═══════════════════════════════════════════════ LEARNING ══ -->
+
 ## `> learning --progress`
+
 ```bash
 $ cat roadmap_2025.log
 
@@ -186,6 +238,8 @@ $ cat roadmap_2025.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ════════════════════════════════════════════════ GITHUB STATS ══ -->
+
 ## `> github --stats`
 
 <div align="center">
@@ -199,11 +253,14 @@ $ cat roadmap_2025.log
 
 <br/>
 
+<!-- ANIMAÇÃO: Gráfico de atividade -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerrum&theme=tokyo-night&bg_color=0F172A&color=10B981&line=10B981&point=10B981&area=true&hide_border=false&border_color=10B981&radius=10"/>
 
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ TROPHIES ══ -->
 
 ## `> achievements --unlock`
 
@@ -213,9 +270,12 @@ $ cat roadmap_2025.log
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- ANIMAÇÃO: Ondas 3D -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,16,17&height=3"/>
 </div>
+
+<!-- ════════════════════════════════════════════════ CONTACT ══ -->
 
 ## `> contact --open`
 
@@ -224,3 +284,22 @@ $ cat roadmap_2025.log
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
 ### Aberto a freelas · parcerias · projetos desafiadores
+
+```
+Se você tem um problema de dados, uma ideia que envolve IA,
+ou quer colaborar em um projeto inovador, eu quero ouvir. 👇
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me_encontrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/abner-luiz-219aa4246)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Ver_projetos-10B981?style=for-the-badge&logo=globe&logoColor=black&labelColor=0F172A)](https://remarkable-centaur-a911b2.netlify.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Falar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F172A)](https://wa.me/5562992656358)
+[![Email](https://img.shields.io/badge/Email-Enviar_mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:abnerluizpascoal@gmail.com)
+
+<br/>
+
+<!-- ANIMAÇÃO: Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,16,17&height=120&section=footer&text=built%20with%20data%20%C2%B7%20driven%20by%20curiosity%20%C2%B7%20powered%20by%20coffee&fontSize=14&fontColor=10B981&animation=twinkling&fontAlignY=70"/>
+
+</div>
