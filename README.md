@@ -30,7 +30,7 @@
 
 ## `> whoami`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="380" alt="Coding GIF"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="320" alt="Coding GIF"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
@@ -89,13 +89,24 @@ disponível: true
 ║      • Análise e interpretação de dados operacionais             ║
 ║      • Criação de relatórios e indicadores estratégicos          ║
 ║      • Organização e tratamento de dados para insights           ║
+║      • Apoio à tomada de decisão com dados                       ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  📦  ANALISTA OPERACIONAL             ·  MUVE DELIVER ·  2025    ║
 ║      • Suporte a entregadores e parceiros da plataforma          ║
+║      • Monitoramento de ocorrências operacionais                 ║
 ║      • Resolução de problemas logísticos                         ║
+║      • Contrato PJ (07/2025 – 09/2025)                           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🛠️  ESTAGIÁRIO TI                    ·  NÚCLEO GOV   ·  2023-24  ║
 ║      • Atendimento a usuários via sistema de chamados            ║
+║      • Testes e verificação de sites e ferramentas digitais      ║
+║      • Atualização de conteúdos em portais institucionais        ║
+║      • Período: 09/2023 – 08/2024                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  👨‍💼  JOVEM APRENDIZ                   ·  CHOPP BRAHMA  ·  2023    ║
+║      • Apoio em atividades operacionais de produção              ║
+║      • Organização de cargas e produtos                          ║
+║      • Período: 02/2023 – 09/2023                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -154,6 +165,82 @@ disponível: true
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,js,html,css,php,react,git,linux,vscode&theme=dark&perline=11" />
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ PROJECTS ══ -->
+
+## `> projects --featured`
+
+<div align="center">
+
+| ⚡ | Projeto | Descrição | Stack | Status |
+|:--:|:--------|:----------|:------|:------:|
+| 📊 | **Portfólio Dev & IA** | Site profissional com projetos e contato | `React` `Tailwind` `TypeScript` | [![Live](https://img.shields.io/badge/ONLINE-10B981?style=flat-square)](https://remarkable-centaur-a911b2.netlify.app) |
+| 🌐 | **Portfólio HTML Puro** | Portfólio em HTML + CSS + JS sem frameworks | `HTML` `CSS` `JavaScript` | [![Live](https://img.shields.io/badge/ONLINE-10B981?style=flat-square)](https://github.com/Abnerrum) |
+| 📈 | **Dashboard Power BI** | Análise operacional com KPIs e alertas | `Power BI` `SQL` `ETL` | 🔄 Em breve |
+| 🤖 | **Automação com IA** | Pipeline de automação inteligente | `Python` `OpenAI` `Pandas` | 🔄 Em breve |
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ FORMAÇÃO ══ -->
+
+## `> education --list`
+
+<div align="center">
+
+```bash
+$ cat formacao_academica.log
+
+📚 GESTÃO DA TECNOLOGIA DA INFORMAÇÃO COM ÊNFASE EM IA
+   └─ Faculdade da Polícia Militar (FPM)
+   └─ Conclusão: 2025 ✅
+
+📚 INTELIGÊNCIA ARTIFICIAL (Segunda Graduação)
+   └─ SENAI FATESG
+   └─ Status: Em andamento 🔄
+
+📚 FORMAÇÃO PHP DEVELOPER / FULLSTACK
+   └─ Status: Em andamento 🔄
+```
+
+### Cursos Complementares
+
+![Cibersegurança](https://img.shields.io/badge/Inteligência_de_Ameaças_Cibernéticas-24h_2024-EA4B71?style=for-the-badge&labelColor=0F172A)
+![Web](https://img.shields.io/badge/Introdução_à_Programação_Web-24h_2024-10B981?style=for-the-badge&labelColor=0F172A)
+![Redes](https://img.shields.io/badge/Redes_de_Computadores-Fundação_Bradesco_2023-3776AB?style=for-the-badge&labelColor=0F172A)
+![Lógica](https://img.shields.io/badge/Lógica_de_Programação-70h_2023-F7931E?style=for-the-badge&labelColor=0F172A)
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<!-- ═══════════════════════════════════════════════ LEARNING ══ -->
+
+## `> learning --progress`
+
+```bash
+$ cat roadmap_2025.log
+
+[██████████████████████████]  ✅  Gestão da TI + IA .............. CONCLUÍDO
+[████████████████████░░░░░░]  82%  IA · SENAI FATESG ............. EM ANDAMENTO
+[█████████████████░░░░░░░░░]  70%  Python para Análise de Dados .. EM ANDAMENTO
+[████████████████░░░░░░░░░░]  65%  Desenvolvimento Full Stack ..... EM ANDAMENTO
+[███████████░░░░░░░░░░░░░░░]  45%  Machine Learning Aplicado ...... EM ANDAMENTO
+[██████████░░░░░░░░░░░░░░░░]  40%  PHP FullStack ................. EM ANDAMENTO
+[████████████████████████░░]   ∞%  Curiosidade ................... NUNCA PARA
+```
+
+<div align="center">
+
+![TI](https://img.shields.io/badge/Gestão_TI_IA-Concluído_2025-10B981?style=for-the-badge&labelColor=0F172A)
+![IA](https://img.shields.io/badge/IA_&_ML-Em_andamento-EA4B71?style=for-the-badge&labelColor=0F172A)
+![Python](https://img.shields.io/badge/Python_Data_Science-Em_andamento-3776AB?style=for-the-badge&labelColor=0F172A&logo=python&logoColor=white)
+![FullStack](https://img.shields.io/badge/Full_Stack-Em_andamento-F7931E?style=for-the-badge&labelColor=0F172A)
 
 </div>
 
