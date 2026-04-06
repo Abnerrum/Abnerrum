@@ -104,6 +104,6 @@ analista = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e040fb,100:6e40c9&height=120&section=footer" />
 
-⭐️ De **Abner Luiz** com ❤️ — *Transformando dados em conhecimento*
+Feito por Abner Luiz 🚀
 
 </div>
