@@ -30,7 +30,7 @@
 
 ## `> whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding gif"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
@@ -281,7 +281,7 @@ $ cat roadmap_2025.log
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60" alt="handshake gif"/>
 
 ### Aberto a freelas · parcerias · projetos desafiadores
 
