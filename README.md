@@ -30,7 +30,7 @@
 
 ## `> whoami`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="320" alt="Coding GIF"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-6dbc-4ff7-9fd3-6d07228d87b2.gif" width="40%" alt="Coding GIF"/>
 
 ```yaml
 nome:      Abner Luiz Pascoal de Oliveira
@@ -51,6 +51,8 @@ foco:
 
 disponível: true
 ```
+
+<br/>
 
 > *"Dado sem decisão é custo. Decisão sem dado é chute."*
 
@@ -185,7 +187,7 @@ disponível: true
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.exe.gif"/>
 
 <!-- ═══════════════════════════════════════════════ FORMAÇÃO ══ -->
 
