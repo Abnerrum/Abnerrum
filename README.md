@@ -58,7 +58,7 @@ disponível: true
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="700" alt="coding animation"/>
 </div>
 
 <!-- ANIMAÇÃO: Snake comendo contribuições -->
