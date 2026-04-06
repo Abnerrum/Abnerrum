@@ -99,7 +99,7 @@ analista = {
 <div align="center">
 
 <!-- Após fazer upload do pacman.gif no repositório, use a URL abaixo -->
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating my commits" width="100%" />
+<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/Principal/pacman.gif" alt="pacman eating my commits" width="100%" />
 
 </div>
 
