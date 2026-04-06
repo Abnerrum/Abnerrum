@@ -67,34 +67,19 @@ analista = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-| 📈 Commits | 🌍 Linguagens |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true) |
-
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true" />
 </div>
-
-> 💡 *Se as imagens acima não carregarem, acesse diretamente:*
-> - [📊 Suas estatísticas](https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical)
-> - [🔥 Sua sequência](https://streak-stats.demolab.com?user=abnerrum&theme=radical)
 
 ---
 
 ## 🏆 Conquistas
 
 <div align="center">
-
-| 🏅 Métrica | 📊 Valor |
-|---|---|
-| ⭐ Repositórios Públicos | Veja em [github.com/abnerrum](https://github.com/abnerrum?tab=repositories) |
-| 🔁 Contribuições | Veja no [perfil do GitHub](https://github.com/abnerrum) |
-| 📅 Membro desde | 2023 |
 
 ![GitHub followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=blueviolet&labelColor=0D1117&label=Seguidores)
 ![GitHub User's stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=yellow&labelColor=0D1117&label=Stars%20Totais)
