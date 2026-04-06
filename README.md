@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:e040fb&height=200&section=header&text=Abner%20Luiz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=55&descSize=20" />
 
 <!-- 🤖 Novo Robô de IA e Dados -->
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/ai_robot.png" width="250" alt="AI Robot" />
+<img src="ai_robot.png" width="250" alt="AI Robot" />
 
 # 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
 
@@ -99,7 +99,7 @@ analista = {
 <div align="center">
 
 <!-- Animação do Pac-Man comendo commits -->
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating my commits" width="100%" />
+<img src="pacman.png" alt="pacman eating my commits" width="100%" />
 
 </div>
 
