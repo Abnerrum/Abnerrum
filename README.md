@@ -19,7 +19,7 @@ Sou um Analista de Dados com foco em Inteligência Artificial e Desenvolvimento 
 ## 🌐 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abnerluiz.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://magnificent-daifuku-23f1c6.netlify.app/)
 
 *Adicione ou remova links para suas redes sociais e portfólio. Substitua os placeholders pelos seus dados.*
 
