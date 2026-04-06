@@ -115,15 +115,13 @@ analista = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abnerrum&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 ![GitHub followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=blueviolet&labelColor=0D1117&label=Seguidores)
 ![GitHub User's stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=yellow&labelColor=0D1117&label=Stars%20Totais)
-![GitHub commits](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abnerrum&label=Repos%20Públicos&query=$.public_repos&style=for-the-badge&color=orange&labelColor=0D1117)
+![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abnerrum&label=Repos%20P%C3%BAblicos&query=$.public_repos&style=for-the-badge&color=orange&labelColor=0D1117)
+
+![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20PHP%20%7C%20Power%20BI-9b59b6?style=for-the-badge&labelColor=0D1117)
+![Foco](https://img.shields.io/badge/Foco-Data%20%26%20IA-e040fb?style=for-the-badge&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
