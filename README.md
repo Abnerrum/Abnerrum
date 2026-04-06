@@ -55,9 +55,11 @@ disponível: true
 
 > *"Dado sem decisão é custo. Decisão sem dado é chute."*
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="developer gif"/>
+  <!-- Animação focada em Análise de Dados / BI (O lado "Cliente/Negócio") -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223155-0c25f791-54da-4651-b4d0-24401fc5773a.gif" width="45%" alt="data analyst animation"/>
   &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="45%" alt="coding animation 2"/>
+  <!-- Animação focada em Full Stack / Coding (O lado "Desenvolvedor") -->
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="45%" alt="developer animation"/>
 </div>
 <!-- ANIMAÇÃO: Snake comendo contribuições -->
 <div align="center">
