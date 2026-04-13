@@ -75,12 +75,12 @@ analista = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=e040fb&icon_color=a855f7&ring_color=7c3aed" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true&title_color=e040fb" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=e040fb&icon_color=a855f7&ring_color=7c3aed&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true&title_color=e040fb&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true&ring=a855f7&fire=e040fb&currStreakLabel=a855f7" />
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true&ring=a855f7&fire=e040fb&currStreakLabel=a855f7&dates=8b949e&sideNums=e040fb&sideLabels=a855f7" />
 </div>
 
 ---
