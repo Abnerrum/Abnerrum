@@ -1,133 +1,108 @@
+<!-- BANNER TERMINAL -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0d0d0d&height=200&section=header&text=ABNER%20LUIZ&fontSize=55&fontColor=a855f7&animation=fadeIn&fontAlignY=45&desc=//%20Data%20Analyst%20%7C%20Graduando%20em%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=68&descSize=16&descColor=666666" />
+
+```
+# Protocol : HTTPS/2    | Cipher  : AES-256
+# Stack    : Python | PHP | Power BI
+# uid      : abnerrum   | role    : data.analyst
+# degree   : Graduação em Inteligência Artificial
+# status   : OPEN TO WORK
+
+> ACCESS GRANTED — DATA NODE ONLINE
+```
+
+---
+
+## `ROOT@ABNERLUIZ:~$` whoami
+
+> **📊 Analista de Dados · 🎓 Graduando em IA · 🐍 Dev Python & PHP**
+
+Python para análise e automação de dados. Power BI para dashboards de impacto.  
+Estudando **Inteligência Artificial** na graduação — aprendendo Machine Learning, redes neurais e muito mais.  
+Dados não são só números — são **decisões**.
+
+---
+
+## `ROOT@ABNERLUIZ:~$` system_stats
+
 <div align="center">
+  <img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=a855f7&icon_color=a855f7&text_color=8b949e&bg_color=0d1117" />
+  <img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=github_dark&hide_border=true&title_color=a855f7&text_color=8b949e&bg_color=0d1117" />
+</div>
 
-<!-- Banner animado com efeito waving -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:e040fb&height=200&section=header&text=Abner%20Luiz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=55&descSize=20" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=github-dark-blue&hide_border=true&ring=a855f7&fire=e040fb&currStreakLabel=a855f7" />
+</div>
 
-<!-- 👾 GIF de coding/matrix -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
-
-# 👋 Olá, eu sou Abner Luiz Pascoal de Oliveira
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%F0%9F%93%8A;Especialista+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Desenvolvedor+PHP+%26+Python+%F0%9F%90%8D;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abner-luiz-219aa4246">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://magnificent-daifuku-23f1c6.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abnerrum&color=blueviolet&style=for-the-badge&label=Visitas+ao+Perfil" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&theme=react-dark&hide_border=true&area=true&color=a855f7&line=a855f7&point=e040fb" />
 </div>
 
 ---
 
-## 🧠 Sobre Mim
+## `ROOT@ABNERLUIZ:~$` cat /etc/tech_stack.conf
 
-python
-analista = {
-    "nome":     "Abner Luiz Pascoal de Oliveira",
-    "foco":     ["Análise de Dados", "Inteligência Artificial", "Dev de Sistemas"],
-    "stack":    ["Python", "PHP", "Power BI", "HTML/CSS/JS"],
-    "status":   "🔍 Sempre buscando novos desafios",
-    "objetivo": "Transformar dados em decisões inteligentes 📊"
+```python
+stack = {
+    "linguagens":   ["Python", "PHP", "JavaScript", "HTML5", "CSS3"],
+    "dados_bi":     ["Power BI", "Pandas", "NumPy", "Matplotlib", "Scikit-Learn"],
+    "ferramentas":  ["Git", "GitHub", "VS Code"],
+    "graduacao":    "Inteligência Artificial 🎓",
+    "status":       "🔍 Sempre buscando novos desafios",
+    "objetivo":     "Transformar dados em decisões inteligentes 📊"
 }
-
-
-- 📊 Analista de Dados com foco em *Inteligência Artificial*
-- 🐍 Aprimorando habilidades em *Python* e *PHP*
-- 📈 Apaixonado por *visualização de dados* e *automação*
-- 🎯 Em busca constante de *aprender e crescer*
+```
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## `ROOT@ABNERLUIZ:~$` cat /etc/education.conf
+
+```bash
+[GRADUAÇÃO]
+curso    = Inteligência Artificial
+status   = cursando
+foco     = Machine Learning | Redes Neurais | Visão Computacional | NLP
+
+[SKILLS_EM_DESENVOLVIMENTO]
+→ Algoritmos de ML e Deep Learning
+→ Modelos preditivos e classificação
+→ Análise e engenharia de dados
+→ Automação com Python
+```
+
+---
+
+## `ROOT@ABNERLUIZ:~$` ls -la /tech/languages/
 
 <div align="center">
 
-### 💻 Linguagens & Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34c26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=264de4)
 
-### 📊 Dados & BI
-[![Skills](https://skillicons.dev/icons?i=powerbi&theme=dark)](https://skillicons.dev)
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a855f7)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a855f7)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=a855f7)
 
-### 🛠️ Ferramentas & Versionamento
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 📈 Gráfico 3D de Contribuições
+## `ROOT@ABNERLUIZ:~$` ls ./connections/
 
 <div align="center">
 
-<!-- 📊 Gráfico isométrico/3D de contribuições -->
-[![Isometric Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnerrum&theme=radical)](https://github.com/abnerrum)
-
-<!-- Alternativa com view isométrico -->
-[![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&theme=react-dark&hide_border=true&area=true)](https://github.com/abnerrum)
-
-</div>
-
----
-
-## 🟡 Pac-Man comendo meus commits
-
-<div align="center">
-
-<!-- Animação do Pac-Man comendo commits -->
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating my commits" width="100%" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=blueviolet&labelColor=0D1117&label=Seguidores)
-![GitHub User's stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=yellow&labelColor=0D1117&label=Stars%20Totais)
-![Repos Públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abnerrum&label=Repos%20P%C3%BAblicos&query=$.public_repos&style=for-the-badge&color=orange&labelColor=0D1117)
-
-![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20PHP%20%7C%20Power%20BI-9b59b6?style=for-the-badge&labelColor=0D1117)
-![Foco](https://img.shields.io/badge/Foco-Data%20%26%20IA-e040fb?style=for-the-badge&labelColor=0D1117)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://magnificent-daifuku-23f1c6.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
+[![LinkedIn](https://img.shields.io/badge/_%20linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0d1117)](https://www.linkedin.com/in/abner-luiz-219aa4246)
+[![Portfólio](https://img.shields.io/badge/_%20portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=a855f7&labelColor=0d1117)](https://magnificent-daifuku-23f1c6.netlify.app/)
+[![GitHub](https://img.shields.io/badge/_%20github-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/abnerrum)
 
 </div>
 
@@ -135,9 +110,11 @@ analista = {
 
 <div align="center">
 
-<!-- 🌊 Footer com animação de ondas aprimorada (dupla camada) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e040fb,50:9c27b0,100:6e40c9&height=150&section=footer&animation=twinkling" />
-
-Feito com 💜 por Abner Luiz 🚀
+![STATUS](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4ade80?style=flat-square&labelColor=0d1117)
+![DEGREE](https://img.shields.io/badge/DEGREE-Graduação%20em%20IA-a855f7?style=flat-square&labelColor=0d1117)
+![NODE](https://img.shields.io/badge/NODE-Brasil%2FSP-555?style=flat-square&labelColor=0d1117)
+![VISITS](https://komarev.com/ghpvc/?username=abnerrum&color=a855f7&style=flat-square&label=VISITAS)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a0a&height=50&section=footer&text=%3E%20ABNER_NODE%20OFFLINE&fontSize=13&fontColor=2d2d2d&fontAlignY=55" />
