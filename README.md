@@ -2,8 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9c27b0,100:e040fb&height=220&section=header&text=Abner%20Luiz&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Graduando%20em%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=58&descSize=18&descColor=e0b3ff" />
 
-<img src="https://media.giphy.com/media/k42bRtpBJt9OLbLERg/giphy.gif" height="280" alt="Optimus Prime Transforming GIF" />
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="280" alt="Coding GIF" />
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/k42bRtpBJt9OLbLERg/giphy.gif" width="380" height="240" alt="Transformers GIF" /></td>
+    <td><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="240" alt="Coding GIF" /></td>
+  </tr>
+</table>
 
 <br/>
 
