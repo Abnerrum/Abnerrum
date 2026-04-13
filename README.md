@@ -97,6 +97,16 @@ analista = {
 
 ---
 
+## 🟡 Pac-Man comendo meus commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating my commits" width="100%" />
+
+</div>
+
+---
+
 ## 🏆 Conquistas & Status
 
 <div align="center">
