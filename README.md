@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9c27b0,100:e040fb&height=220&section=header&text=Abner%20Luiz&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Graduando%20em%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=58&descSize=18&descColor=e0b3ff" />
 
-<img src="https://media.giphy.com/media/NM8Opf46xsMpib5hdu/giphy.gif" height="280" alt="Vibe Coding GIF" />
+<img src="https://media.giphy.com/media/ypfUZ8UMij0bEK9i8D/giphy.gif" height="280" alt="Transformers GIF" />
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="280" alt="Coding GIF" />
 
 <br/>
