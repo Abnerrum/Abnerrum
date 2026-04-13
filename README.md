@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://media.giphy.com/media/k42bRtpBJt9OLbLERg/giphy.gif" width="380" height="240" alt="Transformers GIF" /></td>
+    <td><img src="https://media.giphy.com/media/k42bRtpBJt9OLbLERg/giphy.gif" width="380" height="240" alt="Transformers GIF" style="transform: rotate(90deg);" /></td>
     <td><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="240" alt="Coding GIF" /></td>
   </tr>
 </table>
