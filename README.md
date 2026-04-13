@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Analista+de+Dados+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%8E%93;Desenvolvedor+PHP+%26+Python+%F0%9F%90%8D;Apaixonado+por+Machine+Learning+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=60&lines=Analista+de+Dados+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%8E%93;Desenvolvedor+PHP+%26+Python+%F0%9F%90%8D;Apaixonado+por+Machine+Learning+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
