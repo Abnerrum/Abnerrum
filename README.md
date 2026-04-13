@@ -2,13 +2,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9c27b0,100:e040fb&height=220&section=header&text=Abner%20Luiz&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Graduando%20em%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=58&descSize=18&descColor=e0b3ff" />
 
-<img src="https://media.giphy.com/media/NM8Opf46xsMpib5hdu/giphy.gif" width="340" alt="Vibe Coding GIF" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/NM8Opf46xsMpib5hdu/giphy.gif" height="280" alt="Vibe Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="280" alt="Coding GIF" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Analista+de+Dados+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%8E%93;Desenvolvedor+PHP+%26+Python+%F0%9F%90%8D;Apaixonado+por+Machine+Learning+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Analista+de+Dados+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%8E%93;Desenvolvedor+PHP+%26+Python+%F0%9F%90%8D;Apaixonado+por+Machine+Learning+%F0%9F%A4%96;Sempre+aprendendo+e+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
