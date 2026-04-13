@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9c27b0,100:e040fb&height=220&section=header&text=Abner%20Luiz&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20%7C%20Graduando%20em%20IA%20%7C%20Dev%20de%20Sistemas&descAlignY=58&descSize=18&descColor=e0b3ff" />
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/NM8Opf46xsMpib5hdu/giphy.gif" width="340" alt="Vibe Coding GIF" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" />
 
 <br/>
 
