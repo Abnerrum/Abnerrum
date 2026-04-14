@@ -48,7 +48,7 @@ analista = {
 - 🐍 Desenvolvendo habilidades em **Python** e **PHP**
 - 📈 Apaixonado por **dados**, **IA** e resolver problemas do mundo real
 - 🎯 Em busca constante de **aprender, construir e crescer**
-
+- 🎯  Formado em **Gestão da Tecnologia da Informação** desde de 2025
 ---
 
 ## 🚀 Tecnologias e Ferramentas
