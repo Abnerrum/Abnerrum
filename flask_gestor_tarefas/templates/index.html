@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gestor de Tarefas | Flask + SQLite</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body>
+  <main class="container">
+    <header class="hero">
+      <h1>📌 Projeto Intermediário: Gestor de Tarefas</h1>
+      <p>Stack: Python + Flask + SQLite + HTML + CSS + JavaScript</p>
+    </header>
+
+    <section class="stats">
+      <article>
+        <span>Total</span>
+        <strong>{{ total }}</strong>
+      </article>
+      <article>
+        <span>Concluídas</span>
+        <strong>{{ concluidas }}</strong>
+      </article>
+      <article>
+        <span>Pendentes</span>
+        <strong>{{ total - concluidas }}</strong>
+      </article>
+    </section>
+
+    {% with mensagens = get_flashed_messages(with_categories=true) %}
+      {% if mensagens %}
+        <section class="alerts">
+          {% for categoria, mensagem in mensagens %}
+            <p class="alert {{ categoria }}">{{ mensagem }}</p>
+          {% endfor %}
+        </section>
+      {% endif %}
+    {% endwith %}
+
+    <section class="card">
+      <h2>Nova tarefa</h2>
+      <form action="{{ url_for('criar_tarefa') }}" method="POST" class="form-grid">
+        <input type="text" name="titulo" placeholder="Título da tarefa" maxlength="120" required />
+        <textarea name="descricao" placeholder="Descrição detalhada" rows="3" required></textarea>
+        <select name="prioridade" aria-label="Prioridade">
+          <option value="baixa">Baixa</option>
+          <option value="media" selected>Média</option>
+          <option value="alta">Alta</option>
+        </select>
+        <button type="submit">Adicionar</button>
+      </form>
+    </section>
+
+    <section class="card filters">
+      <form method="GET">
+        <input
+          type="search"
+          name="busca"
+          placeholder="Buscar por título ou descrição"
+          value="{{ busca }}"
+        />
+        <select name="status">
+          <option value="todas" {% if filtro_status == 'todas' %}selected{% endif %}>Todas</option>
+          <option value="pendentes" {% if filtro_status == 'pendentes' %}selected{% endif %}>Pendentes</option>
+          <option value="concluidas" {% if filtro_status == 'concluidas' %}selected{% endif %}>Concluídas</option>
+        </select>
+        <button type="submit">Filtrar</button>
+      </form>
+    </section>
+
+    <section class="card">
+      <h2>Lista de tarefas</h2>
+      {% if tarefas %}
+        <ul class="lista-tarefas">
+          {% for tarefa in tarefas %}
+            <li class="tarefa prioridade-{{ tarefa.prioridade }} {% if tarefa.concluida %}concluida{% endif %}">
+              <div>
+                <h3>{{ tarefa.titulo }}</h3>
+                <p>{{ tarefa.descricao }}</p>
+                <small>
+                  Prioridade: {{ tarefa.prioridade|capitalize }} ·
+                  Criada em: {{ tarefa.criada_em.strftime('%d/%m/%Y %H:%M') }}
+                </small>
+              </div>
+              <div class="acoes">
+                <button class="toggle-status" data-id="{{ tarefa.id }}">
+                  {% if tarefa.concluida %}Marcar como pendente{% else %}Concluir{% endif %}
+                </button>
+                <form action="{{ url_for('excluir_tarefa', tarefa_id=tarefa.id) }}" method="POST">
+                  <button class="danger" type="submit">Excluir</button>
+                </form>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="empty">Nenhuma tarefa encontrada.</p>
+      {% endif %}
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
