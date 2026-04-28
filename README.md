@@ -99,21 +99,17 @@ class AbnerLuiz:
 
 </div>
 
-> 💡 **Sugestão:** Substitua os links e nomes acima pelos seus repositórios mais relevantes. Use `pins` do GitHub se preferir mostrar automaticamente os repositórios fixados.
+> 💡 **Sugestão:** Substitua os links e nomes acima pelos seus repositórios mais relevantes.
 
 ---
 
-## 🟢 GitHub Snake - Meus Commits Comem a Cobrinha
+## 🟡 Pac-Man comendo meus commits
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake.svg" />
-  </picture>
+<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating commits" width="100%" />
 </div>
 
-> ⚠️ **Para ativar o snake**: crie um workflow no GitHub Actions (arquivo `.github/workflows/snake.yml`). Me avise se quiser o código pronto.
+> **Nota:** Certifique-se de que o arquivo `pacman.gif` exista na raiz do seu repositório `abnerrum/abnerrum`. Caso não tenha, você pode baixar um GIF de Pac-Man e enviá-lo para lá.
 
 ---
 
