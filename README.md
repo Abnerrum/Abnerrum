@@ -11,9 +11,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-![Visitors](https://komarev.com/ghpvc/?username=abnerrum&color=7c3aed&style=for-the-badge&label=Visualizações)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)
 
 </div>
 
@@ -57,11 +58,11 @@ class AbnerLuiz:
 ### 🤖 Dados, IA & BI
 [![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=1a1a2e)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=1a1a2e)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a2e)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=1a1a2e)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠 Ferramentas & Versionamento
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
@@ -70,38 +71,59 @@ class AbnerLuiz:
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed&cache_seconds=1800" />
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb&cache_seconds=1800" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abnerrum&theme=midnight-purple&hide_border=true&ring=9c27b0&fire=b39ddb&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=9c27b0" />
 </div>
 
----
-
-## 📈 Atividade de Contribuições
-
 <div align="center">
-
-[![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnerrum&theme=midnight_purple)](https://github.com/abnerrum)
-
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true)](https://github.com/abnerrum)
-
+  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🌟 Projetos em Destaque
+
+<div align="center">
+
+| 📊 Análise de Dados | 🤖 Machine Learning | 💻 Desenvolvimento |
+|---------------------|---------------------|--------------------|
+| [**Dashboard Vendas Power BI**](https://github.com/abnerrum/dashboard-vendas) | [**Classificação de Imagens CNN**](https://github.com/abnerrum/cifar10-cnn) | [**Sistema em PHP**](https://github.com/abnerrum/sistema-php) |
+| `Python + Power BI` | `PyTorch + torchvision` | `PHP + MySQL` |
+
+</div>
+
+> 💡 **Sugestão:** Substitua os links e nomes acima pelos seus repositórios mais relevantes. Use `pins` do GitHub se preferir mostrar automaticamente os repositórios fixados.
+
+---
+
+## 🟢 GitHub Snake - Meus Commits Comem a Cobrinha
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ **Para ativar o snake**: crie um workflow no GitHub Actions (arquivo `.github/workflows/snake.yml`). Me avise se quiser o código pronto.
+
+---
+
+## 🏆 Conquistas e Badges
 
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/abnerrum?style=for-the-badge&color=9c27b0&labelColor=0D1117&label=Seguidores)
 ![Stars](https://img.shields.io/github/stars/abnerrum?style=for-the-badge&color=b39ddb&labelColor=0D1117)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abnerrum&label=Repositórios&query=$.public_repos&style=for-the-badge&color=7c3aed&labelColor=0D1117)
+![Commits](https://img.shields.io/github/commit-activity/m/abnerrum/abnerrum?style=for-the-badge&color=7c3aed&labelColor=0D1117&label=Commits%20(último%20mês))
 
 <br/>
 
@@ -113,21 +135,14 @@ class AbnerLuiz:
 
 ---
 
-## 🟡 Pac-Man comendo meus commits
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating commits" width="100%" />
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
+## 📫 Como me encontrar
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
 
 </div>
 
