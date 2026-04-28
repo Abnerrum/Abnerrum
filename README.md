@@ -92,14 +92,14 @@ class AbnerLuiz:
 
 <div align="center">
 
-| 📊 Análise de Dados | 🤖 Machine Learning | 💻 Desenvolvimento |
-|---------------------|---------------------|--------------------|
-| [**Dashboard Vendas Power BI**](https://github.com/abnerrum/dashboard-vendas) | [**Classificação de Imagens CNN**](https://github.com/abnerrum/cifar10-cnn) | [**Sistema em PHP**](https://github.com/abnerrum/sistema-php) |
-| `Python + Power BI` | `PyTorch + torchvision` | `PHP + MySQL` |
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|--------------|
+| [**FitTrack - Gestão de Saúde**](https://github.com/abnerrum/FitTrack---Sistema-de-Gest-o-de-Sa-de) | Sistema full stack para gestão de saúde e exercícios, com autenticação de usuários e dashboard dinâmico. | `Python` `Flask` `SQLite` `HTML/CSS` |
+| [**Projeto-Estoque**](https://github.com/abnerrum/Projeto-Estoque) | Controle de estoque com rastreabilidade de movimentações, bloqueio de saída por saldo insuficiente e alertas. | `Python` `Flask` |
+| [**Sistema Web de Vendas**](https://github.com/abnerrum/Sistema-Web-de-Vendas) | Sistema web para gerenciamento de vendas, com foco em simplicidade e eficiência. | `Python` |
+| [**LiteLink - Encurtador de URLs**](https://github.com/abnerrum/Projeto-de-Teste) | Encurtador de URLs com rotas dinâmicas, contagem de acessos, desenvolvido com Laravel para estudos. | `PHP` `Laravel` `HTML` |
 
 </div>
-
-> 💡 **Sugestão:** Substitua os links e nomes acima pelos seus repositórios mais relevantes.
 
 ---
 
