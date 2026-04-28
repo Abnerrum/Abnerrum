@@ -55,7 +55,7 @@ class AbnerLuiz:
 ### 💻 Linguagens & Frontend
 [![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
 
-### 🤖 Dados, IA & BI
+### 🤖 Dados, IA & BI (atual)
 [![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e)
@@ -64,8 +64,18 @@ class AbnerLuiz:
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠 Ferramentas & Versionamento
+### 🛠 Ferramentas & Versionamento (atuais)
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+
+### 📚 Futuramente em Análise de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 </div>
 
@@ -109,7 +119,7 @@ class AbnerLuiz:
 <img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating commits" width="100%" />
 </div>
 
-> **Nota:** Certifique-se de que o arquivo `pacman.gif` exista na raiz do seu repositório `abnerrum/abnerrum`. Caso não tenha, você pode baixar um GIF de Pac-Man e enviá-lo para lá.
+> **Nota:** Certifique-se de que o arquivo `pacman.gif` exista na raiz do seu repositório `abnerrum/abnerrum`.
 
 ---
 
