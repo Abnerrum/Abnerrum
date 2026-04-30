@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <title>Smart Tracker</title>
+</head>
+<body>
+  <h1>Smart Tracker - Monitor de Preços</h1>
+
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <ul>
+      {% for message in messages %}
+        <li>{{ message }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endwith %}
+
+  <h2>Cadastrar produto</h2>
+  <form method="post">
+    <input name="name" placeholder="Nome do produto" />
+    <input name="url" placeholder="URL do produto" required />
+    <input name="target_price" type="number" step="0.01" placeholder="Preço alvo" required />
+    <select name="contact_type">
+      <option value="email">E-mail</option>
+      <option value="whatsapp">WhatsApp (Twilio)</option>
+    </select>
+    <input name="contact_value" placeholder="E-mail ou número" required />
+    <button type="submit">Salvar</button>
+  </form>
+
+  <h2>Produtos monitorados</h2>
+  <ul>
+    {% for product in products %}
+      <li>
+        {{ product.name or 'Sem nome' }} | alvo: R$ {{ '%.2f'|format(product.target_price) }}
+        <a href="{{ url_for('check_product', product_id=product.id) }}">Verificar agora</a>
+        <a href="{{ url_for('chart', product_id=product.id) }}">Ver gráfico</a>
+      </li>
+    {% else %}
+      <li>Nenhum produto cadastrado.</li>
+    {% endfor %}
+  </ul>
+</body>
+</html>
