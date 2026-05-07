@@ -46,6 +46,12 @@ class AbnerLuiz:
 - 📈 Apaixonado por **dados**, **IA** e resolução de problemas reais  
 - 🎯 Sempre aprendendo, sempre construindo
 
+### 📚 Aprendendo agora
+
+![Deep Learning](https://progress-bar.dev/70/?title=Deep+Learning&width=220&color=7c3aed)
+![NLP](https://progress-bar.dev/45/?title=NLP&width=220&color=7c3aed)
+![Data+Engineering](https://progress-bar.dev/30/?title=Data+Engineering&width=220&color=7c3aed)
+
 ---
 
 ## 🚀 Stack Tecnológica
@@ -105,6 +111,27 @@ class AbnerLuiz:
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abnerrum&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+---
+
+## ⏱️ Tempo de código esta semana
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> **Nota:** Crie uma conta gratuita em [wakatime.com](https://wakatime.com), instale o plugin no VSCode e configure o [waka-readme](https://github.com/athul/waka-readme) para preencher automaticamente.
+
+</div>
+
+---
+
 ## 🌟 Projetos em Destaque
 
 <div align="center">
@@ -120,13 +147,47 @@ class AbnerLuiz:
 
 ---
 
-## 🟡 Pac-Man comendo meus commits
+## 🟡 Snake comendo meus commits
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating commits" width="100%" />
+<img src="https://raw.githubusercontent.com/abnerrum/abnerrum/output/github-contribution-grid-snake-dark.svg" alt="snake eating commits" width="100%" />
 </div>
 
-> **Nota:** Certifique-se de que o arquivo `pacman.gif` exista na raiz do seu repositório `abnerrum/abnerrum`.
+> **Como ativar:** Crie o arquivo `.github/workflows/snake.yml` no repositório `abnerrum/abnerrum` com o conteúdo abaixo e a snake será gerada automaticamente todo domingo via GitHub Actions.
+>
+> ```yaml
+> name: Generate Snake
+> 
+> on:
+>   schedule:
+>     - cron: "0 0 * * 0"
+>   workflow_dispatch:
+> 
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: abnerrum
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 💬 Pensamento do dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 ---
 
