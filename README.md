@@ -120,6 +120,37 @@ class AbnerLuiz:
 
 ---
 
+## 🗺️ Roadmap de Aprendizado
+
+```
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
+
+[✅] Gestão de TI          [✅] Python & Flask         [✅] Power BI
+[✅] MySQL & SQLite         [✅] Machine Learning Básico [✅] APIs REST
+[🔄] Deep Learning (PyTorch)[🔄] NLP                    [🔄] Grad. em IA
+[📋] BigQuery & Spark       [📋] Airflow & DBT          [📋] Tableau
+[📋] MLOps                  [📋] LLMs aplicados         [📋] Cloud (GCP/AWS)
+
+✅ Concluído  🔄 Em progresso  📋 Planejado
+```
+
+---
+
+## 💡 O que Estou Estudando Agora
+
+<div align="center">
+
+| Área | Tópico | Progresso |
+|------|--------|-----------|
+| 🤖 Deep Learning | Redes Neurais com PyTorch | ██████░░░░ 60% |
+| 🗣️ NLP | Transformers & Embeddings | ████░░░░░░ 40% |
+| 📊 Data Engineering | SQL Avançado & Pipelines | ███░░░░░░░ 30% |
+| ☁️ Cloud | Fundamentos GCP | ██░░░░░░░░ 20% |
+
+</div>
+
+---
+
 ## 🟡 Pac-Man comendo meus commits
 
 <div align="center">
@@ -148,6 +179,18 @@ class AbnerLuiz:
 
 ---
 
+## 💬 Frase que me Motiva
+
+<div align="center">
+
+> *"Sem dados, você é apenas mais uma pessoa com uma opinião."*
+> 
+> — **W. Edwards Deming**
+
+</div>
+
+---
+
 ## 📫 Como me encontrar
 
 <div align="center">
@@ -156,6 +199,20 @@ class AbnerLuiz:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⏱️ Tempo de Código (WakaTime)
+
+<!--START_SECTION:waka-->
+> Adicione sua WakaTime API key nas Actions do repositório para ativar esta seção automaticamente.
+> 
+> Veja como: [github.com/anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+<!--END_SECTION:waka-->
 
 </div>
 
