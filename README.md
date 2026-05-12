@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" />
 </div>
 
 <div align="center">
@@ -121,18 +121,13 @@ class AbnerLuiz:
 ---
 
 ## 🗺️ Roadmap de Aprendizado
-
-```
 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
-
 [✅] Gestão de TI          [✅] Python & Flask         [✅] Power BI
 [✅] MySQL & SQLite         [✅] Machine Learning Básico [✅] APIs REST
 [🔄] Deep Learning (PyTorch)[🔄] NLP                    [🔄] Grad. em IA
 [📋] BigQuery & Spark       [📋] Airflow & DBT          [📋] Tableau
 [📋] MLOps                  [📋] LLMs aplicados         [📋] Cloud (GCP/AWS)
-
 ✅ Concluído  🔄 Em progresso  📋 Planejado
-```
 
 ---
 
@@ -156,8 +151,6 @@ class AbnerLuiz:
 <div align="center">
 <img src="https://raw.githubusercontent.com/abnerrum/abnerrum/main/pacman.gif" alt="pacman eating commits" width="100%" />
 </div>
-
-> **Nota:** Certifique-se de que o arquivo `pacman.gif` exista na raiz do seu repositório `abnerrum/abnerrum`.
 
 ---
 
