@@ -13,8 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)](https://github.com/abnerrum)
 
 </div>
 
@@ -40,11 +40,7 @@ class AbnerLuiz:
         return "Seja bem-vindo ao meu perfil! 👋"
 ```
 
-- 📊 **Data Analyst** com foco em visualização, automação e insights acionáveis  
-- 🎓 Graduando em **Inteligência Artificial** — estudando ML, Deep Learning e NLP  
-- 🐍 Desenvolvendo com **Python** (pandas, scikit-learn, PyTorch) e **PHP**  
-- 📈 Apaixonado por **dados**, **IA** e resolução de problemas reais  
-- 🎯 Sempre aprendendo, sempre construindo
+Sou um **Analista de Dados** apaixonado por transformar informações brutas em insights acionáveis e estratégias de negócio. Atualmente, estou aprofundando meus conhecimentos em **Inteligência Artificial**, com foco em Machine Learning, Deep Learning e Processamento de Linguagem Natural (NLP). Minha jornada tecnológica é impulsionada pela busca contínua por soluções inovadoras e pela paixão em construir sistemas robustos e eficientes. Com experiência em **Python** e **PHP**, e proficiência em ferramentas como **Power BI**, estou sempre pronto para novos desafios e oportunidades que me permitam aplicar e expandir minhas habilidades.
 
 ---
 
@@ -53,36 +49,26 @@ class AbnerLuiz:
 <div align="center">
 
 ### 💻 Linguagens & Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,typescript,java&theme=dark)](https://skillicons.dev)
 
-### 🤖 Dados, IA & BI (atual)
-[![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+### 🤖 Dados, IA & BI
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,powerbi,tableau&theme=dark)](https://skillicons.dev)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Banco de Dados (atual)
-[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark)](https://skillicons.dev)
+### 🗄️ Banco de Dados
+[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,firebase&theme=dark)](https://skillicons.dev)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠 Ferramentas & Versionamento (atuais)
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
-
-### 📚 Futuramente em Análise de Dados
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+### 🛠 Ferramentas & Versionamento
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,gcp&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -91,21 +77,23 @@ class AbnerLuiz:
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed" />
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=midnight-purple&hide_border=true&ring=9c27b0&fire=b39ddb&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=9c27b0" />
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=midnight-purple&hide_border=true&ring=9c27b0&fire=b39ddb&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=9c27b0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true" />
+  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🌟 Projetos em Destaque
+
+Explore alguns dos meus projetos mais relevantes, onde aplico meus conhecimentos em análise de dados, inteligência artificial e desenvolvimento de sistemas:
 
 <div align="center">
 
@@ -121,6 +109,9 @@ class AbnerLuiz:
 ---
 
 ## 🗺️ Roadmap de Aprendizado
+
+Minha jornada de aprendizado é contínua e focada nas tecnologias mais relevantes para o futuro da análise de dados e inteligência artificial:
+
 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
 [✅] Gestão de TI          [✅] Python & Flask         [✅] Power BI
 [✅] MySQL & SQLite         [✅] Machine Learning Básico [✅] APIs REST
