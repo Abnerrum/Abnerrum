@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" alt="Header animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B39DDB&center=true&vCenter=true&width=680&lines=Transformando+dados+em+decis%C3%B5es+inteligentes+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Python+%7C+PHP+%7C+Power+BI+%7C+ML+%F0%9F%90%8D;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B39DDB&center=true&vCenter=true&width=680&lines=Transformando+dados+em+decis%C3%B5es+inteligentes+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Python+%7C+PHP+%7C+Power+BI+%7C+ML+%F0%9F%90%8D;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)](https://github.com/abnerrum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)
 
 </div>
 
@@ -25,97 +25,82 @@
 ```python
 class AbnerLuiz:
     name       = "Abner Luiz Pascoal de Oliveira"
-    location   = "Goiânia, GO, Brasil 🇧🇷"
-    role       = "Analista de Dados na Samsung 📊"
-    education  = "Gestão da Tecnologia da Informação (Ênfase em IA) 🎓 | Inteligência Artificial (em andamento)"
+    location   = "Brasil 🇧🇷"
+    degree     = "Inteligência Artificial 🎓 (em andamento)"
+    background = "Gestão de TI — formado em 2025"
     
-    focus      = ["Análise de Dados", "Inteligência Artificial", "Machine Learning", "Desenvolvimento de Soluções"]
-    tech_stack = ["Python", "PHP", "Power BI", "SQL", "HTML/CSS/JS", "PyTorch", "scikit-learn"]
+    focus      = ["Análise de Dados", "Machine Learning", "Desenvolvimento de Sistemas"]
+    stack      = ["Python", "PHP", "Power BI", "HTML/CSS/JS", "PyTorch", "scikit-learn"]
     
-    currently  = "Aprimorando habilidades em Deep Learning e NLP 🔬"
-    status     = "Aberto a oportunidades de impacto 🟢"
-    goal       = "Transformar dados complexos em decisões estratégicas e inovadoras 🚀"
+    currently  = "Explorando Deep Learning e NLP 🔬"
+    status     = "Aberto a oportunidades 🟢"
+    goal       = "Transformar dados em decisões inteligentes 📊"
 
     def greet(self):
-        return "Seja bem-vindo ao meu perfil profissional! 👋"
+        return "Seja bem-vindo ao meu perfil! 👋"
 ```
 
-Como **Analista de Dados na Samsung**, sou responsável por conduzir análises operacionais e estratégicas, transformando grandes volumes de dados em *insights* acionáveis que impulsionam a tomada de decisão gerencial. Minha expertise inclui o desenvolvimento de *dashboards* e relatórios dinâmicos no **Power BI**, além de proficiência em tratamento, limpeza e organização de bases de dados. Sou um entusiasta da **Inteligência Artificial**, cursando uma segunda graduação na área pelo SENAI FATESG e com formação em **Gestão da Tecnologia da Informação com ênfase em IA** pela Faculdade da Polícia Militar. Minha paixão reside em aplicar tecnologias como **Python**, **SQL** e **Machine Learning** para resolver problemas complexos e construir soluções inovadoras que geram valor real.
+- 📊 **Data Analyst** com foco em visualização, automação e insights acionáveis  
+- 🎓 Graduando em **Inteligência Artificial** — estudando ML, Deep Learning e NLP  
+- 🐍 Desenvolvendo com **Python** (pandas, scikit-learn, PyTorch) e **PHP**  
+- 📈 Apaixonado por **dados**, **IA** e resolução de problemas reais  
+- 🎯 Sempre aprendendo, sempre construindo
 
 ---
 
-## 💼 Experiência Profissional
-
-### **Analista de Dados** – Samsung | Jan 2025 – Atual
-*   Liderança na análise de dados operacionais e estratégicos, fornecendo suporte crítico à tomada de decisão gerencial.
-*   Desenvolvimento e otimização de *dashboards* e relatórios no **Power BI**, consolidando indicadores de desempenho e métricas-chave.
-*   Especialista em tratamento, limpeza e organização de bases de dados complexas para extração de *insights* acionáveis.
-*   Colaboração estratégica com equipes multidisciplinares, facilitando a interpretação de métricas e a apresentação de resultados.
-
-### **Analista Operacional** – MUVE Deliver | Jul 2025 – Set 2025 (Contrato PJ)
-*   Suporte abrangente a entregadores e parceiros, assegurando a fluidez e eficiência das operações logísticas.
-*   Monitoramento proativo e registro detalhado de ocorrências operacionais em tempo real no sistema interno.
-*   Identificação e resolução ágil de problemas logísticos, com foco na melhoria contínua do atendimento.
-
-### **Estagiário de TI** – Núcleo GOV | Set 2023 – Ago 2024
-*   Atendimento e suporte técnico a usuários via sistema de chamados (*help desk*), garantindo a resolução eficiente de problemas.
-*   Execução de testes funcionais e verificação de qualidade em plataformas digitais e ferramentas web.
-*   Atualização e manutenção de conteúdos em portais institucionais governamentais, assegurando a relevância e precisão das informações.
-
----
-
-## 🎓 Formação Acadêmica
-
-*   **Inteligência Artificial (Segunda Graduação)**
-    *   SENAI FATESG | Em andamento
-*   **Gestão da Tecnologia da Informação – Ênfase em Inteligência Artificial**
-    *   Faculdade da Polícia Militar | Conclusão prevista: 2025
-
----
-
-## 🚀 Habilidades Técnicas
+## 🚀 Stack Tecnológica
 
 <div align="center">
 
-### 📊 Dados & Business Intelligence
-[![Skills](https://skillicons.dev/icons?i=powerbi,excel,sql,tableau,looker,bigquery&theme=dark)](https://skillicons.dev)
+### 💻 Linguagens & Frontend
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
 
-### 💻 Linguagens & Desenvolvimento Web
-[![Skills](https://skillicons.dev/icons?i=python,php,html,css,js,typescript,flask,laravel&theme=dark)](https://skillicons.dev)
+### 🤖 Dados, IA & BI (atual)
+[![Skills](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
 
-### 🤖 Inteligência Artificial & Machine Learning
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,nlp&theme=dark)](https://skillicons.dev)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud & Ferramentas
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,gcp,azure&theme=dark)](https://skillicons.dev)
+### 🗄️ Banco de Dados (atual)
+[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,firebase&theme=dark)](https://skillicons.dev)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠 Ferramentas & Versionamento (atuais)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+
+### 📚 Futuramente em Análise de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 </div>
-
----
-
-## 📜 Cursos e Certificações
-
-*   **Formação PHP Developer / FullStack** (em andamento)
-*   **Inteligência de Ameaças Cibernéticas** – 24h (2024)
-*   **Introdução à Programação Web** – 24h (2024)
-*   **Introdução a Redes de Computadores** – Fundação Bradesco (2023)
-*   **Lógica de Programação** – 70h (2023)
 
 ---
 
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=abnerrum&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=b39ddb&icon_color=9c27b0&ring_color=7c3aed" />
+  <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abnerrum&layout=compact&theme=midnight-purple&hide_border=true&title_color=b39ddb" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=midnight-purple&hide_border=true&ring=9c27b0&fire=b39ddb&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=9c27b0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abnerrum&theme=midnight-purple&hide_border=true&ring=9c27b0&fire=b39ddb&currStreakLabel=b39ddb&sideNums=e2d9f3&sideLabels=9c27b0" />
 </div>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true" alt="GitHub Activity Graph" />
+  <img height="120em" src="https://github-readme-activity-graph.vercel.app/graph?username=abnerrum&bg_color=0d0d1a&color=b39ddb&line=7c3aed&point=e040fb&area=true&area_color=2d1b69&hide_border=true" />
 </div>
 
 ---
@@ -136,14 +121,13 @@ Como **Analista de Dados na Samsung**, sou responsável por conduzir análises o
 ---
 
 ## 🗺️ Roadmap de Aprendizado
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=B39DDB&center=true&vCenter=true&width=800&lines=2025+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━+2026+;[✅]+Gestão+de+TI++[✅]+Python+and+Flask++[✅]+Power+BI;[✅]+MySQL+and+SQLite++[✅]+Machine+Learning+Básico++[✅]+APIs+REST;[🔄]+Deep+Learning+(PyTorch)++[🔄]+NLP++[🔄]+Grad.+em+IA;[📋]+BigQuery+and+Spark++[📋]+Airflow+and+DBT++[📋]+Tableau;[📋]+MLOps++[📋]+LLMs+aplicados++[📋]+Cloud+(GCP/AWS)" alt="Roadmap Animado" />
-</div>
-
-<div align="center">
-  <p>✅ Concluído | 🔄 Em progresso | 📋 Planejado</p>
-</div>
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
+[✅] Gestão de TI          [✅] Python & Flask         [✅] Power BI
+[✅] MySQL & SQLite         [✅] Machine Learning Básico [✅] APIs REST
+[🔄] Deep Learning (PyTorch)[🔄] NLP                    [🔄] Grad. em IA
+[📋] BigQuery & Spark       [📋] Airflow & DBT          [📋] Tableau
+[📋] MLOps                  [📋] LLMs aplicados         [📋] Cloud (GCP/AWS)
+✅ Concluído  🔄 Em progresso  📋 Planejado
 
 ---
 
@@ -205,9 +189,9 @@ Como **Analista de Dados na Samsung**, sou responsável por conduzir análises o
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
 
 </div>
 
@@ -228,7 +212,7 @@ Como **Analista de Dados na Samsung**, sou responsável por conduzir análises o
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" alt="Footer animado" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" />
 
 **Feito com 💜 por Abner Luiz**
 
