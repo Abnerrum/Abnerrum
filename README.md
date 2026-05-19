@@ -121,13 +121,10 @@ class AbnerLuiz:
 ---
 
 ## 🗺️ Roadmap de Aprendizado
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+
-[✅] Gestão de TI          [✅] Python & Flask         [✅] Power BI
-[✅] MySQL & SQLite         [✅] Machine Learning Básico [✅] APIs REST
-[🔄] Deep Learning (PyTorch)[🔄] NLP                    [🔄] Grad. em IA
-[📋] BigQuery & Spark       [📋] Airflow & DBT          [📋] Tableau
-[📋] MLOps                  [📋] LLMs aplicados         [📋] Cloud (GCP/AWS)
-✅ Concluído  🔄 Em progresso  📋 Planejado
+
+<div align="center">
+  <img src="./roadmap_animado.svg" width="100%" alt="Roadmap de Aprendizado Animado" />
+</div>
 
 ---
 
