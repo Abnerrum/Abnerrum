@@ -11,9 +11,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)](https://github.com/abnerrum)
 
 </div>
@@ -25,52 +25,81 @@
 ```python
 class AbnerLuiz:
     name       = "Abner Luiz Pascoal de Oliveira"
-    location   = "Brasil 🇧🇷"
-    degree     = "Inteligência Artificial 🎓 (em andamento)"
-    background = "Gestão de TI — formado em 2025"
+    location   = "Goiânia, GO, Brasil 🇧🇷"
+    degree     = "Gestão da Tecnologia da Informação 🎓 (Ênfase em IA - Conclusão 2025)"
+    background = "Inteligência Artificial (SENAI FATESG - em andamento)"
     
-    focus      = ["Análise de Dados", "Machine Learning", "Desenvolvimento de Sistemas"]
-    stack      = ["Python", "PHP", "Power BI", "HTML/CSS/JS", "PyTorch", "scikit-learn"]
+    focus      = ["Análise de Dados", "Inteligência Artificial", "Desenvolvimento de Soluções"]
+    stack      = ["Python", "PHP", "Power BI", "SQL", "HTML/CSS/JS"]
     
-    currently  = "Explorando Deep Learning e NLP 🔬"
+    currently  = "Atuando como Analista de Dados na Samsung 📊"
     status     = "Aberto a oportunidades 🟢"
-    goal       = "Transformar dados em decisões inteligentes 📊"
+    goal       = "Apoiar a tomada de decisão estratégica através de dados e IA 🚀"
 
     def greet(self):
         return "Seja bem-vindo ao meu perfil! 👋"
 ```
 
-Sou um **Analista de Dados** apaixonado por transformar informações brutas em insights acionáveis e estratégias de negócio. Atualmente, estou aprofundando meus conhecimentos em **Inteligência Artificial**, com foco em Machine Learning, Deep Learning e Processamento de Linguagem Natural (NLP). Minha jornada tecnológica é impulsionada pela busca contínua por soluções inovadoras e pela paixão em construir sistemas robustos e eficientes. Com experiência em **Python** e **PHP**, e proficiência em ferramentas como **Power BI**, estou sempre pronto para novos desafios e oportunidades que me permitam aplicar e expandir minhas habilidades.
+Sou **Analista de Dados na Samsung**, com experiência em transformar dados operacionais e estratégicos em insights acionáveis para a tomada de decisão gerencial. Minha paixão por tecnologia me levou a buscar uma segunda graduação em **Inteligência Artificial** no SENAI FATESG, complementando minha formação em **Gestão da Tecnologia da Informação** com ênfase em IA pela Faculdade da Polícia Militar. Sou proficiente no desenvolvimento de dashboards e relatórios no **Power BI**, tratamento e organização de bases de dados, e colaboro ativamente com equipes multidisciplinares. Minhas habilidades incluem **Python**, **PHP**, **SQL**, **HTML/CSS/JavaScript**, e estou constantemente aprimorando meus conhecimentos em Machine Learning, Deep Learning e NLP para construir soluções inovadoras e eficientes.
 
 ---
 
-## 🚀 Stack Tecnológica
+## 💼 Experiência Profissional
+
+### **Analista de Dados** – Samsung | Jan 2025 – Atual
+*   Análise de dados operacionais e estratégicos para suporte à tomada de decisão gerencial.
+*   Desenvolvimento de dashboards e relatórios no Power BI, consolidando indicadores de desempenho.
+*   Tratamento, limpeza e organização de bases de dados para geração de insights acionáveis.
+*   Colaboração com equipes multidisciplinares na interpretação de métricas e resultados.
+
+### **Analista Operacional** – MUVE Deliver | Jul 2025 – Set 2025 (Contrato PJ)
+*   Suporte a entregadores e parceiros da plataforma, garantindo fluidez operacional.
+*   Monitoramento e registro de ocorrências operacionais em tempo real no sistema interno.
+*   Identificação e resolução de problemas logísticos com foco em agilidade no atendimento.
+
+### **Estagiário de TI** – Núcleo GOV | Set 2023 – Ago 2024
+*   Atendimento e suporte a usuários via sistema de chamados (help desk).
+*   Realização de testes funcionais e verificação de qualidade em sites e ferramentas digitais.
+*   Atualização e manutenção de conteúdos em portais institucionais governamentais.
+
+---
+
+## 🎓 Formação Acadêmica
+
+*   **Gestão da Tecnologia da Informação – Ênfase em Inteligência Artificial**
+    *   Faculdade da Polícia Militar | Conclusão prevista: 2025
+*   **Inteligência Artificial (em andamento)**
+    *   SENAI FATESG | Segunda Graduação
+
+---
+
+## 🚀 Habilidades Técnicas
 
 <div align="center">
 
-### 💻 Linguagens & Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,typescript,java&theme=dark)](https://skillicons.dev)
+### 📊 Dados & BI
+[![Skills](https://skillicons.dev/icons?i=powerbi,excel,sql&theme=dark)](https://skillicons.dev)
 
-### 🤖 Dados, IA & BI
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,powerbi,tableau&theme=dark)](https://skillicons.dev)
+### 💻 Programação & Web
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### 🤖 Inteligência Artificial
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark)](https://skillicons.dev)
 
-### 🗄️ Banco de Dados
-[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,firebase&theme=dark)](https://skillicons.dev)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🛠 Ferramentas & Versionamento
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,gcp&theme=dark)](https://skillicons.dev)
+### 🛠 Ferramentas & Outros
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark)](https://skillicons.dev)
 
 </div>
+
+---
+
+## 📜 Cursos e Certificações
+
+*   **Formação PHP Developer / FullStack** (em andamento)
+*   **Inteligência de Ameaças Cibernéticas** – 24h (2024)
+*   **Introdução à Programação Web** – 24h (2024)
+*   **Introdução a Redes de Computadores** – Fundação Bradesco (2023)
+*   **Lógica de Programação** – 70h (2023)
 
 ---
 
@@ -180,9 +209,9 @@ Minha jornada de aprendizado é contínua e focada nas tecnologias mais relevant
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bucolic-melomakarona-464983.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abner.luiz@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
 
 </div>
 
