@@ -1,20 +1,20 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abner%20Luiz&fontSize=72&fontColor=e2d9f3&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20%7C%20AI%20Undergraduate%20%7C%20Systems%20Developer&descAlignY=57&descSize=17&descColor=b39ddb" alt="Header animado com o nome Abner Luiz e suas qualificações" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B39DDB&center=true&vCenter=true&width=680&lines=Transformando+dados+em+decis%C3%B5es+inteligentes+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Python+%7C+PHP+%7C+Power+BI+%7C+ML+%F0%9F%90%8D;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B39DDB&center=true&vCenter=true&width=680&lines=Transformando+dados+em+decis%C3%B5es+inteligentes+%F0%9F%93%8A;Graduando+em+Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Python+%7C+PHP+%7C+Power+BI+%7C+ML+%F0%9F%90%8D;Always+building+something+new+%F0%9F%9A%80" alt="Texto digitado dinamicamente com frases de impacto" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)](https://github.com/abnerrum)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-luiz-219aa4246)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%237c3aed.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://verdant-tiramisu-c543ba.netlify.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abnerrum)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abnerluizpascoal@gmail.com)
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=abnerrum&label=Visitantes&labelColor=%230d1117&countColor=%237c3aed&style=for-the-badge)](https://github.com/abnerrum)
 
 </div>
 
@@ -26,50 +26,50 @@
 class AbnerLuiz:
     name       = "Abner Luiz Pascoal de Oliveira"
     location   = "Goiânia, GO, Brasil 🇧🇷"
-    degree     = "Gestão da Tecnologia da Informação 🎓 (Ênfase em IA - Conclusão 2025)"
-    background = "Inteligência Artificial (SENAI FATESG - em andamento)"
+    role       = "Analista de Dados na Samsung 📊"
+    education  = "Gestão da Tecnologia da Informação (Ênfase em IA) 🎓 | Inteligência Artificial (em andamento)"
     
-    focus      = ["Análise de Dados", "Inteligência Artificial", "Desenvolvimento de Soluções"]
-    stack      = ["Python", "PHP", "Power BI", "SQL", "HTML/CSS/JS"]
+    focus      = ["Análise de Dados", "Inteligência Artificial", "Machine Learning", "Desenvolvimento de Soluções"]
+    tech_stack = ["Python", "PHP", "Power BI", "SQL", "HTML/CSS/JS", "PyTorch", "scikit-learn"]
     
-    currently  = "Atuando como Analista de Dados na Samsung 📊"
-    status     = "Aberto a oportunidades 🟢"
-    goal       = "Apoiar a tomada de decisão estratégica através de dados e IA 🚀"
+    currently  = "Aprimorando habilidades em Deep Learning e NLP 🔬"
+    status     = "Aberto a oportunidades de impacto 🟢"
+    goal       = "Transformar dados complexos em decisões estratégicas e inovadoras 🚀"
 
     def greet(self):
-        return "Seja bem-vindo ao meu perfil! 👋"
+        return "Seja bem-vindo ao meu perfil profissional! 👋"
 ```
 
-Sou **Analista de Dados na Samsung**, com experiência em transformar dados operacionais e estratégicos em insights acionáveis para a tomada de decisão gerencial. Minha paixão por tecnologia me levou a buscar uma segunda graduação em **Inteligência Artificial** no SENAI FATESG, complementando minha formação em **Gestão da Tecnologia da Informação** com ênfase em IA pela Faculdade da Polícia Militar. Sou proficiente no desenvolvimento de dashboards e relatórios no **Power BI**, tratamento e organização de bases de dados, e colaboro ativamente com equipes multidisciplinares. Minhas habilidades incluem **Python**, **PHP**, **SQL**, **HTML/CSS/JavaScript**, e estou constantemente aprimorando meus conhecimentos em Machine Learning, Deep Learning e NLP para construir soluções inovadoras e eficientes.
+Como **Analista de Dados na Samsung**, sou responsável por conduzir análises operacionais e estratégicas, transformando grandes volumes de dados em *insights* acionáveis que impulsionam a tomada de decisão gerencial. Minha expertise inclui o desenvolvimento de *dashboards* e relatórios dinâmicos no **Power BI**, além de proficiência em tratamento, limpeza e organização de bases de dados. Sou um entusiasta da **Inteligência Artificial**, cursando uma segunda graduação na área pelo SENAI FATESG e com formação em **Gestão da Tecnologia da Informação com ênfase em IA** pela Faculdade da Polícia Militar. Minha paixão reside em aplicar tecnologias como **Python**, **SQL** e **Machine Learning** para resolver problemas complexos e construir soluções inovadoras que geram valor real.
 
 ---
 
 ## 💼 Experiência Profissional
 
 ### **Analista de Dados** – Samsung | Jan 2025 – Atual
-*   Análise de dados operacionais e estratégicos para suporte à tomada de decisão gerencial.
-*   Desenvolvimento de dashboards e relatórios no Power BI, consolidando indicadores de desempenho.
-*   Tratamento, limpeza e organização de bases de dados para geração de insights acionáveis.
-*   Colaboração com equipes multidisciplinares na interpretação de métricas e resultados.
+*   Liderança na análise de dados operacionais e estratégicos, fornecendo suporte crítico à tomada de decisão gerencial.
+*   Desenvolvimento e otimização de *dashboards* e relatórios no **Power BI**, consolidando indicadores de desempenho e métricas-chave.
+*   Especialista em tratamento, limpeza e organização de bases de dados complexas para extração de *insights* acionáveis.
+*   Colaboração estratégica com equipes multidisciplinares, facilitando a interpretação de métricas e a apresentação de resultados.
 
 ### **Analista Operacional** – MUVE Deliver | Jul 2025 – Set 2025 (Contrato PJ)
-*   Suporte a entregadores e parceiros da plataforma, garantindo fluidez operacional.
-*   Monitoramento e registro de ocorrências operacionais em tempo real no sistema interno.
-*   Identificação e resolução de problemas logísticos com foco em agilidade no atendimento.
+*   Suporte abrangente a entregadores e parceiros, assegurando a fluidez e eficiência das operações logísticas.
+*   Monitoramento proativo e registro detalhado de ocorrências operacionais em tempo real, garantindo a integridade dos dados.
+*   Identificação e resolução ágil de problemas logísticos, com foco na melhoria contínua do atendimento.
 
 ### **Estagiário de TI** – Núcleo GOV | Set 2023 – Ago 2024
-*   Atendimento e suporte a usuários via sistema de chamados (help desk).
-*   Realização de testes funcionais e verificação de qualidade em sites e ferramentas digitais.
-*   Atualização e manutenção de conteúdos em portais institucionais governamentais.
+*   Atendimento e suporte técnico a usuários via sistema de chamados (*help desk*), garantindo a resolução eficiente de problemas.
+*   Execução de testes funcionais e verificação de qualidade em plataformas digitais e ferramentas web.
+*   Atualização e manutenção de conteúdos em portais institucionais governamentais, assegurando a relevância e precisão das informações.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
+*   **Inteligência Artificial (Segunda Graduação)**
+    *   SENAI FATESG | Em andamento
 *   **Gestão da Tecnologia da Informação – Ênfase em Inteligência Artificial**
     *   Faculdade da Polícia Militar | Conclusão prevista: 2025
-*   **Inteligência Artificial (em andamento)**
-    *   SENAI FATESG | Segunda Graduação
 
 ---
 
@@ -77,17 +77,17 @@ Sou **Analista de Dados na Samsung**, com experiência em transformar dados oper
 
 <div align="center">
 
-### 📊 Dados & BI
-[![Skills](https://skillicons.dev/icons?i=powerbi,excel,sql&theme=dark)](https://skillicons.dev)
+### 📊 Dados & Business Intelligence
+[![Skills](https://skillicons.dev/icons?i=powerbi,excel,sql,tableau,looker,bigquery&theme=dark)](https://skillicons.dev)
 
-### 💻 Programação & Web
-[![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
+### 💻 Linguagens & Desenvolvimento Web
+[![Skills](https://skillicons.dev/icons?i=python,php,html,css,js,typescript,flask,laravel&theme=dark)](https://skillicons.dev)
 
-### 🤖 Inteligência Artificial
-[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark)](https://skillicons.dev)
+### 🤖 Inteligência Artificial & Machine Learning
+[![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,nlp&theme=dark)](https://skillicons.dev)
 
-### 🛠 Ferramentas & Outros
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark)](https://skillicons.dev)
+### ☁️ Cloud & Ferramentas
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,gcp,azure&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -232,7 +232,7 @@ Minha jornada de aprendizado é contínua e focada nas tecnologias mais relevant
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&animation=twinkling" alt="Footer animado" />
 
 **Feito com 💜 por Abner Luiz**
 
