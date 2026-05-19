@@ -1,0 +1,138 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+    
+    .bg { fill: #0d1117; rx: 15; }
+    .title { font: bold 24px 'JetBrains Mono', monospace; fill: #b39ddb; }
+    .year { font: 14px 'JetBrains Mono', monospace; fill: #7c3aed; opacity: 0.8; }
+    .item-text { font: 14px 'JetBrains Mono', monospace; fill: #e2d9f3; }
+    .status-icon { font: 16px 'JetBrains Mono', monospace; }
+    
+    .line { stroke: #302b63; stroke-width: 2; stroke-dasharray: 5 5; }
+    
+    .node {
+      animation: float 3s ease-in-out infinite;
+    }
+    
+    @keyframes float {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+
+    .progress-bar {
+      height: 4px;
+      rx: 2;
+      fill: #302b63;
+    }
+    
+    .progress-fill {
+      height: 4px;
+      rx: 2;
+      fill: #7c3aed;
+      animation: slide 2s ease-out forwards;
+    }
+
+    @keyframes slide {
+      from { width: 0; }
+    }
+
+    .done { fill: #00c853; }
+    .doing { fill: #ffab00; }
+    .todo { fill: #546e7a; }
+    
+    .connector {
+      stroke: #7c3aed;
+      stroke-width: 2;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 2s ease-out forwards;
+    }
+    
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+  </style>
+
+  <rect width="800" height="400" class="bg" />
+  
+  <text x="40" y="50" class="title">🗺️ Roadmap de Aprendizado</text>
+  <text x="40" y="80" class="year">2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026+</text>
+
+  <!-- Linhas de Conexão -->
+  <path d="M 100 150 L 700 150" class="line" />
+  <path d="M 100 250 L 700 250" class="line" />
+  <path d="M 100 350 L 700 350" class="line" />
+
+  <!-- Coluna 1 -->
+  <g class="node" style="animation-delay: 0s;">
+    <text x="60" y="130" class="status-icon done">✅</text>
+    <text x="90" y="130" class="item-text">Gestão de TI</text>
+    <rect x="60" y="140" width="180" class="progress-bar" />
+    <rect x="60" y="140" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 0.2s;">
+    <text x="60" y="230" class="status-icon done">✅</text>
+    <text x="90" y="230" class="item-text">MySQL &amp; SQLite</text>
+    <rect x="60" y="240" width="180" class="progress-bar" />
+    <rect x="60" y="240" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 0.4s;">
+    <text x="60" y="330" class="status-icon doing">🔄</text>
+    <text x="90" y="330" class="item-text">Deep Learning (PyTorch)</text>
+    <rect x="60" y="340" width="180" class="progress-bar" />
+    <rect x="60" y="340" width="108" class="progress-fill" />
+  </g>
+
+  <!-- Coluna 2 -->
+  <g class="node" style="animation-delay: 0.6s;">
+    <text x="310" y="130" class="status-icon done">✅</text>
+    <text x="340" y="130" class="item-text">Python &amp; Flask</text>
+    <rect x="310" y="140" width="180" class="progress-bar" />
+    <rect x="310" y="140" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 0.8s;">
+    <text x="310" y="230" class="status-icon done">✅</text>
+    <text x="340" y="230" class="item-text">Machine Learning Básico</text>
+    <rect x="310" y="240" width="180" class="progress-bar" />
+    <rect x="310" y="240" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 1.0s;">
+    <text x="310" y="330" class="status-icon doing">🔄</text>
+    <text x="340" y="330" class="item-text">NLP</text>
+    <rect x="310" y="340" width="180" class="progress-bar" />
+    <rect x="310" y="340" width="72" class="progress-fill" />
+  </g>
+
+  <!-- Coluna 3 -->
+  <g class="node" style="animation-delay: 1.2s;">
+    <text x="560" y="130" class="status-icon done">✅</text>
+    <text x="590" y="130" class="item-text">Power BI</text>
+    <rect x="560" y="140" width="180" class="progress-bar" />
+    <rect x="560" y="140" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 1.4s;">
+    <text x="560" y="230" class="status-icon done">✅</text>
+    <text x="590" y="230" class="item-text">APIs REST</text>
+    <rect x="560" y="240" width="180" class="progress-bar" />
+    <rect x="560" y="240" width="180" class="progress-fill" />
+  </g>
+
+  <g class="node" style="animation-delay: 1.6s;">
+    <text x="560" y="330" class="status-icon doing">🔄</text>
+    <text x="590" y="330" class="item-text">Grad. em IA</text>
+    <rect x="560" y="340" width="180" class="progress-bar" />
+    <rect x="560" y="340" width="90" class="progress-fill" />
+  </g>
+
+  <!-- Legenda -->
+  <g transform="translate(40, 380)">
+    <text x="0" y="0" class="status-icon done" font-size="12">✅ Concluído</text>
+    <text x="120" y="0" class="status-icon doing" font-size="12">🔄 Em progresso</text>
+    <text x="260" y="0" class="status-icon todo" font-size="12">📋 Planejado</text>
+  </g>
+</svg>
