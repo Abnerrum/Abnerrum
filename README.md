@@ -1,6 +1,6 @@
 # Olá, eu sou Abner Luiz 👋
 
-**Desenvolvedor Backend Júnior | PHP | Python | APIs REST | MySQL**
+**Desenvolvedor Back-end | PHP | Python | APIs REST | MySQL**
 
 Profissional de tecnologia em Goiânia (GO), formado em Gestão da Tecnologia da Informação e atualmente graduando em Inteligência Artificial no SENAI FATESG. Trabalho como Analista de Dados Tracking, com atuação em indicadores, automação de rotinas e melhoria de processos operacionais.
 
