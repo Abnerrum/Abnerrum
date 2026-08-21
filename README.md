@@ -1,45 +1,59 @@
-# Olá, eu sou Abner Luiz 👋
+# Abner Luiz Pascoal de Oliveira 👋
 
-**Desenvolvedor Back-end | PHP | Python | APIs REST | MySQL**
+### Desenvolvedor Backend Júnior | Analista de Dados e Processos
 
-Profissional de tecnologia em Goiânia (GO), formado em Gestão da Tecnologia da Informação e atualmente graduando em Inteligência Artificial no SENAI FATESG. Trabalho como Analista de Dados Tracking, com atuação em indicadores, automação de rotinas e melhoria de processos operacionais.
+Profissional de tecnologia em **Goiânia (GO)**, formado em **Gestão da Tecnologia da Informação com ênfase em IA** e atualmente graduando em **Inteligência Artificial no SENAI FATESG**.
 
-Busco oportunidades para desenvolver soluções backend úteis, bem documentadas e orientadas a problemas reais.
+Atuo como **Analista de Processos de TI**, unindo desenvolvimento, dados e automação para melhorar fluxos operacionais, criar indicadores e apoiar decisões. Meu foco profissional está em **desenvolvimento backend com Python e PHP**, APIs REST, bancos de dados e soluções orientadas a problemas reais.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abner_Luiz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abner-luiz-219aa4246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abner_Luiz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abner-luiz-pascoal-de-oliveira-219aa4246/)
 [![Email](https://img.shields.io/badge/Email-phpjs5457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phpjs5457@gmail.com)
 
-## Tecnologias
+## Tecnologias principais
 
-- **Backend:** PHP, Python, Laravel, Flask e FastAPI
-- **Bancos de dados:** MySQL, SQLite e Firebase
-- **Dados e BI:** Pandas, ETL, Power BI, Plotly e OpenPyXL
-- **Frontend:** HTML5, CSS3, JavaScript e Bootstrap
-- **Ferramentas:** Git, GitHub, Postman, Swagger e Visual Studio Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- **Backend:** Python, PHP, FastAPI, Flask, Laravel e APIs REST
+- **Dados e BI:** SQL, Pandas, ETL, Power BI, Plotly e Excel
+- **Bancos de dados:** MySQL, PostgreSQL, SQLite e Firebase
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap e Jinja2
+- **Ferramentas:** Git, GitHub, Postman, Swagger, Docker e Visual Studio Code
 
 ## Projetos em destaque
 
-| Projeto | O que demonstra | Tecnologias |
+| Projeto | Solução desenvolvida | Tecnologias |
 |---|---|---|
-| [InsightFlow IA](https://github.com/Abnerrum/InsightFlow-IA) | Importação de planilhas, ETL, indicadores, análise com IA, API e controles de segurança | FastAPI, MySQL, Pandas, OpenAI API |
-| [FitTrack](https://github.com/Abnerrum/FitTrack---Sistema-de-Gest-o-de-Sa-de.) | Autenticação, dashboard e acompanhamento de exercícios no pré-operatório bariátrico | Flask, SQLite, Jinja2, Bootstrap |
+| [HydroAlert-AI](https://github.com/Abnerrum/HydroAlert-AI) | Alerta preditivo de inundações urbanas com IoT, análise de dados, BI e IA | Python, FastAPI, NoSQL, ML, Leaflet |
+| [InsightFlow IA](https://github.com/Abnerrum/InsightFlow-IA) | Importação de planilhas, ETL, indicadores, análise assistida e API | FastAPI, MySQL, Pandas |
+| [FitTrack](https://github.com/Abnerrum/FitTrack---Sistema-de-Gest-o-de-Sa-de.) | Plataforma de acompanhamento pré-bariátrico com autenticação e dashboard | Flask, SQLite, Jinja2, Bootstrap |
 | [Sistema de BI Web](https://github.com/Abnerrum/Sistema-de-Intelig-ncia-de-Dados-Business-Intelligence-Web-) | Transformação de planilhas em KPIs e dashboards para apoio à decisão | Flask, MySQL, Pandas, Plotly |
-| [Loja Virtual em PHP](https://github.com/Abnerrum/-Loja-Virtual-em-PHP) | Catálogo, carrinho com sessões, persistência e checkout simples | PHP, MySQL, Bootstrap |
-| [RouteManager](https://github.com/Abnerrum/RouteManager) | Planejamento e gerenciamento de rotas para operações logísticas | Python, APIs e mapas |
+| [RouteManager](https://github.com/Abnerrum/RouteManager) | Planejamento e gerenciamento de rotas para operações logísticas | Python, APIs, mapas |
 
 ## Experiência aplicada
 
-- Automação de processos e rotinas com Python;
-- Construção de relatórios, indicadores e interfaces web;
-- Tratamento, organização e análise de dados operacionais;
-- Documentação e melhoria contínua de processos;
-- Desenvolvimento e consumo de APIs REST.
+- Análise, documentação e melhoria contínua de processos;
+- Automação de rotinas e tratamento de dados com Python;
+- Desenvolvimento e consumo de APIs REST;
+- Criação de relatórios, KPIs e dashboards;
+- Modelagem e consulta de bancos de dados;
+- Construção de aplicações web orientadas a necessidades reais.
 
 ## Formação
 
 - **Inteligência Artificial** — SENAI FATESG, em andamento
-- **Gestão da Tecnologia da Informação — Ênfase em IA** — Faculdade da Polícia Militar, concluído em 2025
+- **Gestão da Tecnologia da Informação — Ênfase em IA** — concluído em 2025
+
+## Objetivo profissional
+
+Busco oportunidades como **Desenvolvedor Backend Júnior**, **Analista de Dados Júnior** ou **Analista de Processos**, nas quais eu possa aplicar Python, PHP, APIs, bancos de dados e automação para gerar resultados mensuráveis.
 
 ---
 
-Estou aberto a oportunidades como **Desenvolvedor Backend Júnior**, especialmente com PHP, Python e APIs REST.
+> Tecnologia, dados e automação para transformar problemas reais em soluções eficientes.
