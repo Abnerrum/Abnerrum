@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="850" alt="Optimus Prime se transformando" />
+<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="410" alt="Optimus Prime se transformando" />
+<img src="https://media.giphy.com/media/9FZONYU8o41b63mil9/giphy.gif" width="410" alt="Bumblebee se transformando" />
 
 ### 🤖⚙️ TRANSFORMANDO IDEIAS EM CÓDIGO ⚙️🤖
 
