@@ -5,13 +5,15 @@
 <img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="410" alt="Optimus Prime se transformando" />
 <img src="https://media.giphy.com/media/9FZONYU8o41b63mil9/giphy.gif" width="410" alt="Bumblebee se transformando" />
 
-### 🤖⚙️ TRANSFORMANDO IDEIAS EM CÓDIGO ⚙️🤖
+<br><br>
 
-**Backend • Inteligência Artificial • Automação • APIs • Dados**
+## 🤖 AUTOBOTS • TRANSFORMANDO IDEIAS EM CÓDIGO 💻
 
-</div>
+### ⚙️ Computação • 🧠 IA • 🔌 APIs • 📊 Dados • 🖥️ Backend
 
 **Desenvolvedor Back-end | PHP | Python | APIs REST | MySQL**
+
+</div>
 
 Profissional de tecnologia em Goiânia (GO), formado em Gestão da Tecnologia da Informação e atualmente graduando em Inteligência Artificial no SENAI FATESG. Trabalho como Analista de Dados Tracking, com atuação em indicadores, automação de rotinas e melhoria de processos operacionais.
 
