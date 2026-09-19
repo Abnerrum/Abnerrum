@@ -2,9 +2,11 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="850" alt="Optimus Prime se transformando" />
+
 ### 🤖⚙️ TRANSFORMANDO IDEIAS EM CÓDIGO ⚙️🤖
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=850&lines=AUTOBOTS%2C+TRANSFORM+AND+CODE!;Backend+%2B+IA+%2B+Automa%C3%A7%C3%A3o;Python+%7C+PHP+%7C+FastAPI+%7C+Laravel;Construindo+sistemas+que+transformam+opera%C3%A7%C3%B5es" alt="Animação estilo Transformers" />
+**Backend • Inteligência Artificial • Automação • APIs • Dados**
 
 </div>
 
