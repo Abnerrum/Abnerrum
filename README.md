@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="410" alt="Optimus Prime se transformando" />
-<img src="https://media.giphy.com/media/9FZONYU8o41b63mil9/giphy.gif" width="410" alt="Bumblebee se transformando" />
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logo_AutoBot2.svg" width="330" height="250" alt="Símbolo Autobots" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,mysql,postgres,docker,git,github,vscode&perline=5" width="410" alt="Símbolos de computação e desenvolvimento" />
 
 <br><br>
 
