@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<img src="https://img.favpng.com/8/5/6/optimus-prime-autobot-logo-transformers-decepticon-png-favpng-uHK9bXsEzrvJ1dUsqpaWGk0rQ.jpg" width="330" height="250" alt="Símbolo dos Autobots - Transformers" />
+<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="330" height="250" alt="Animação Autobots dos Transformers" />
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,mysql,postgres,docker,git,github,vscode&perline=5" width="410" alt="Símbolos de computação e desenvolvimento" />
+
 
 <br><br>
 
