@@ -1,59 +1,57 @@
+
 # Olá, eu sou Abner Luiz 👋
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="330" height="250" alt="Animação Autobots dos Transformers" />
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,mysql,postgres,docker,git,github,vscode&perline=5" width="410" alt="Símbolos de computação e desenvolvimento" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:003566,100:0088FF&height=130&section=header&animation=fadeIn"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;AUTOBOTS%2C+ROLL+OUT!;Desenvolvedor+Backend;Python+%7C+PHP+%7C+APIs+REST;Inteligencia+Artificial+%26+Dados" alt="Apresentação animada"/>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="45%">
+
+<img src="https://media.giphy.com/media/8b7iCwtAbNJaZwU4w1/giphy.gif" width="330" alt="Transformers Autobots"/>
+
+</td>
+<td align="center" width="55%">
+
+<h3>⚡ TECHNOLOGY CORE ⚡</h3>
+
+<img src="https://skillicons.dev/icons?i=python,php,laravel,fastapi,flask,mysql,postgres,mongodb,redis,docker,git,github,vscode,java,js&perline=5&theme=dark" width="350" alt="Tecnologias"/>
 
 <br><br>
 
-## 🤖 AUTOBOTS • TRANSFORMANDO IDEIAS EM CÓDIGO 💻
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=linux&logoColor=white"/>
 
-### ⚙️ Computação • 🧠 IA • 🔌 APIs • 📊 Dados • 🖥️ Backend
+</td>
+</tr>
+</table>
 
-**Desenvolvedor Back-end | PHP | Python | APIs REST | MySQL**
+## 🤖 AUTOBOTS — TRANSFORMANDO IDEIAS EM CÓDIGO
+
+**⚙️ Computação • 🧠 IA • 🔌 APIs • 📊 Dados • 💻 Backend**
+
+<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-007BFF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-6E40C9?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-00A86B?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solucoes.;Construindo+a+tecnologia+do+futuro.;Never+Stop+Learning." />
 
 </div>
 
-Profissional de tecnologia em Goiânia (GO), formado em Gestão da Tecnologia da Informação e atualmente graduando em Inteligência Artificial no SENAI FATESG. Trabalho como Analista de Dados Tracking, com atuação em indicadores, automação de rotinas e melhoria de processos operacionais.
-
-Busco oportunidades para desenvolver soluções backend úteis, bem documentadas e orientadas a problemas reais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abner_Luiz-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abner-luiz-219aa4246)
-[![Email](https://img.shields.io/badge/Email-phpjs5457%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phpjs5457@gmail.com)
-
-## Tecnologias
-
-- **Backend:** PHP, Python, Laravel, Flask e FastAPI
-- **Bancos de dados:** MySQL, SQLite e Firebase
-- **Dados e BI:** Pandas, ETL, Power BI, Plotly e OpenPyXL
-- **Frontend:** HTML5, CSS3, JavaScript e Bootstrap
-- **Ferramentas:** Git, GitHub, Postman, Swagger e Visual Studio Code
-
-## Projetos em destaque
-
-| Projeto | O que demonstra | Tecnologias |
-|---|---|---|
-| [InsightFlow IA](https://github.com/Abnerrum/InsightFlow-IA) | Importação de planilhas, ETL, indicadores, análise com IA, API e controles de segurança | FastAPI, MySQL, Pandas, OpenAI API |
-| [FitTrack](https://github.com/Abnerrum/FitTrack---Sistema-de-Gest-o-de-Sa-de.) | Autenticação, dashboard e acompanhamento de exercícios no pré-operatório bariátrico | Flask, SQLite, Jinja2, Bootstrap |
-| [Sistema de BI Web](https://github.com/Abnerrum/Sistema-de-Intelig-ncia-de-Dados-Business-Intelligence-Web-) | Transformação de planilhas em KPIs e dashboards para apoio à decisão | Flask, MySQL, Pandas, Plotly |
-| [Loja Virtual em PHP](https://github.com/Abnerrum/-Loja-Virtual-em-PHP) | Catálogo, carrinho com sessões, persistência e checkout simples | PHP, MySQL, Bootstrap |
-| [RouteManager](https://github.com/Abnerrum/RouteManager) | Planejamento e gerenciamento de rotas para operações logísticas | Python, APIs e mapas |
-
-## Experiência aplicada
-
-- Automação de processos e rotinas com Python;
-- Construção de relatórios, indicadores e interfaces web;
-- Tratamento, organização e análise de dados operacionais;
-- Documentação e melhoria contínua de processos;
-- Desenvolvimento e consumo de APIs REST.
-
-## Formação
-
-- **Inteligência Artificial** — SENAI FATESG, em andamento
-- **Gestão da Tecnologia da Informação — Ênfase em IA** — Faculdade da Polícia Militar, concluído em 2025
-
 ---
 
-Estou aberto a oportunidades como **Desenvolvedor Backend Júnior**, especialmente com PHP, Python e APIs REST.
+## 👨‍💻 Sobre mim
+
+Profissional de tecnologia em Goiânia (GO), formado em Gestão da Tecnologia da Informação com ênfase em IA e atualmente graduando em Inteligência Artificial no SENAI FATESG.
+
+Experiência como Analista de Dados e Analista de Processos de TI, com atuação em indicadores, automação de sistemas, Business Intelligence e melhoria de processos operacionais.
+
+Busco oportunidades para desenvolver soluções Backend eficientes, seguras e orientadas a problemas reais.
